@@ -1,0 +1,34 @@
+renpy.blur renpy.geometry renpy.matrixcolor
+renpy.alpha renpy.blur renpy.geometry renpy.matrixcolor
+gradient.horizontal_left renpy.texture renpy.texture
+renpy.dissolve renpy.geometry
+renpy.matrixcolor renpy.matrixcolor renpy.alpha renpy.blur renpy.blur
+renpy.alpha renpy.blur renpy.blur
+renpy.matrixcolor renpy.blur renpy.blur
+renpy.geometry renpy.matrixcolor renpy.texture
+gradient.vertical_smooth renpy.geometry renpy.texture
+renpy.blur renpy.blur
+renpy.alpha renpy.solid
+gradient.horizontal renpy.texture renpy.texture
+renpy.matrixcolor renpy.alpha renpy.blur renpy.blur
+renpy.alpha renpy.alpha renpy.solid
+gradient.horizontal_left renpy.geometry renpy.texture
+renpy.solid
+renpy.alpha renpy.texture
+renpy.geometry renpy.solid
+renpy.alpha renpy.geometry renpy.solid
+textbox.gradient renpy.texture renpy.texture
+renpy.texture
+renpy.dissolve renpy.dissolve
+renpy.alpha renpy.alpha renpy.blur renpy.blur
+renpy.alpha renpy.geometry renpy.matrixcolor renpy.texture
+renpy.geometry renpy.texture
+renpy.matrixcolor renpy.alpha renpy.texture
+gradient.horizontal renpy.geometry renpy.texture
+renpy.alpha renpy.blur renpy.geometry
+renpy.alpha renpy.geometry renpy.texture
+gradient.vertical_smooth renpy.texture renpy.texture
+renpy.ftl
+renpy.blur renpy.geometry
+renpy.geometry renpy.texture textbox.gradient
+renpy.matrixcolor renpy.texture
