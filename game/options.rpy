@@ -59,28 +59,28 @@ init python:
 # 覆盖系统确认提示文字
 init -1 python:
     # gui 变量
-    gui.ARE_YOU_SURE = "确定吗？"
-    gui.DELETE_SAVE = "确定要删除此存档吗？"
-    gui.OVERWRITE_SAVE = "确定要覆盖此存档吗？"
-    gui.LOADING = "读取将丢失未保存的进度。\n确定要继续吗？"
-    gui.QUIT = "确定要退出游戏吗？"
-    gui.MAIN_MENU = "确定要返回主菜单吗？\n未保存的进度将丢失。"
-    gui.END_REPLAY = "确定要结束回想吗？"
-    gui.SLOW_SKIP = "确定要开始跳过吗？"
-    gui.FAST_SKIP_SEEN = "确定要跳至下一个选项吗？"
-    gui.FAST_SKIP_UNSEEN = "确定要跳过未读对话到下一个选项吗？"
-    
+    gui.ARE_YOU_SURE = _("确定吗？")
+    gui.DELETE_SAVE = _("确定要删除此存档吗？")
+    gui.OVERWRITE_SAVE = _("确定要覆盖此存档吗？")
+    gui.LOADING = _("读取将丢失未保存的进度。\n确定要继续吗？")
+    gui.QUIT = _("确定要退出游戏吗？")
+    gui.MAIN_MENU = _("确定要返回主菜单吗？\n未保存的进度将丢失。")
+    gui.END_REPLAY = _("确定要结束回想吗？")
+    gui.SLOW_SKIP = _("确定要开始跳过吗？")
+    gui.FAST_SKIP_SEEN = _("确定要跳至下一个选项吗？")
+    gui.FAST_SKIP_UNSEEN = _("确定要跳过未读对话到下一个选项吗？")
+
     # layout 变量（这个才是实际使用的！）
-    layout.ARE_YOU_SURE = "确定吗？"
-    layout.DELETE_SAVE = "确定要删除此存档吗？"
-    layout.OVERWRITE_SAVE = "确定要覆盖此存档吗？"
-    layout.LOADING = "读取将丢失未保存的进度。\n确定要继续吗？"
-    layout.QUIT = "确定要退出游戏吗？"
-    layout.MAIN_MENU = "确定要返回主菜单吗？\n未保存的进度将丢失。"
-    layout.END_REPLAY = "确定要结束回想吗？"
-    layout.SLOW_SKIP = "确定要开始跳过吗？"
-    layout.FAST_SKIP_SEEN = "确定要跳至下一个选项吗？"
-    layout.FAST_SKIP_UNSEEN = "确定要跳过未读对话到下一个选项吗？"
+    layout.ARE_YOU_SURE = _("确定吗？")
+    layout.DELETE_SAVE = _("确定要删除此存档吗？")
+    layout.OVERWRITE_SAVE = _("确定要覆盖此存档吗？")
+    layout.LOADING = _("读取将丢失未保存的进度。\n确定要继续吗？")
+    layout.QUIT = _("确定要退出游戏吗？")
+    layout.MAIN_MENU = _("确定要返回主菜单吗？\n未保存的进度将丢失。")
+    layout.END_REPLAY = _("确定要结束回想吗？")
+    layout.SLOW_SKIP = _("确定要开始跳过吗？")
+    layout.FAST_SKIP_SEEN = _("确定要跳至下一个选项吗？")
+    layout.FAST_SKIP_UNSEEN = _("确定要跳过未读对话到下一个选项吗？")
 
 
 ## This section contains information about how to build your project into

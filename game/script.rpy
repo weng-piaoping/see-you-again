@@ -4,71 +4,71 @@ init python:
     CG_LIST = [
         {
             "id": "cg_young",
-            "name": "薄荷与麦香",
-            "description": "薄荷与麦香",
+            "name": _("薄荷与麦香"),
+            "description": _("薄荷与麦香"),
             "image": "images/cg/cg_young.png",
             "thumbnail": "images/cg/cg_young.png"
         },
         {
             "id": "cg_gods",
-            "name": "新世界",
-            "description": "新世界",
+            "name": _("新世界"),
+            "description": _("新世界"),
             "image": "images/cg/cg_gods.png",
             "thumbnail": "images/cg/cg_gods.png"
         },
         {
             "id": "dream",
-            "name": "再会",
-            "description": "再会",
+            "name": _("再会"),
+            "description": _("再会"),
             "image": "images/cg/dream.png",
             "thumbnail": "images/cg/dream.png"
         },
         {
             "id": "under_sky",
-            "name": "星空之下",
-            "description": "星空之下",
+            "name": _("星空之下"),
+            "description": _("星空之下"),
             "image": "images/cg/under_sky.png",
             "thumbnail": "images/cg/under_sky.png"
         },
         {
             "id": "cgB-0",
-            "name": "生而为人",
-            "description": "生而为人",
+            "name": _("生而为人"),
+            "description": _("生而为人"),
             "image": "images/cg/cgB-0.png",
             "thumbnail": "images/cg/cgB-0.png"
         },
         {
             "id": "cgB-1",
-            "name": "无法改变的",
-            "description": "无法改变的",
+            "name": _("无法改变的"),
+            "description": _("无法改变的"),
             "image": "images/cg/cgB-1.png",
             "thumbnail": "images/cg/cgB-1.png"
         },
         {
             "id": "cgB-2",
-            "name": "终局",
-            "description": "终局",
+            "name": _("终局"),
+            "description": _("终局"),
             "image": "images/cg/cgB-2.png",
             "thumbnail": "images/cg/cgB-2.png"
         }, 
         {
             "id": "death",
-            "name": "死别",
-            "description": "死别",
+            "name": _("死别"),
+            "description": _("死别"),
             "image": "images/cg/death.png",
             "thumbnail": "images/cg/death.png"
         },
         {
             "id": "cgD1-1",
-            "name": "再度与你",
-            "description": "再度与你",
+            "name": _("再度与你"),
+            "description": _("再度与你"),
             "image": "images/cg/cgD1-1.png",
             "thumbnail": "images/cg/cgD1-1.png"
         },
         {
             "id": "cgD1-2",
-            "name": "与你同行的梦",
-            "description": "与你同行的梦",
+            "name": _("与你同行的梦"),
+            "description": _("与你同行的梦"),
             "image": "images/cg/cgD1-2.png",
             "thumbnail": "images/cg/cgD1-2.png"
         },
@@ -140,11 +140,11 @@ init python:
 label splashscreen:
     scene black with dissolve
 
-    show screen opening_disclaimer("本游戏为白厄x那刻夏CP向，仅面向喜爱厄夏CP内容的玩家\n游戏内容为基于原作崩坏·星穹铁道的同人二创独立故事线") with dissolve
+    show screen opening_disclaimer(_("本游戏为白厄x那刻夏CP向，仅面向喜爱厄夏CP内容的玩家\n游戏内容为基于原作崩坏·星穹铁道的同人二创独立故事线")) with dissolve
     pause 3.5
     hide screen opening_disclaimer with dissolve
 
-    show screen opening_disclaimer("我们尊重原作制作组的创作内容，本游戏为完全虚构的二创独立if线\n请勿与原作故事线产生联系，感谢您的理解") with dissolve
+    show screen opening_disclaimer(_("我们尊重原作制作组的创作内容，本游戏为完全虚构的二创独立if线\n请勿与原作故事线产生联系，感谢您的理解")) with dissolve
     pause 3.0
     hide screen opening_disclaimer with dissolve
 
@@ -153,25 +153,25 @@ label splashscreen:
 # ========================================
 # 人物定义
 # ========================================
-define phainon = Character("白厄")
-define anaxa_no = Character("那刻夏？")
-define anaxa_letter = Character("那刻夏的字条")
-define phainon_letter = Character("白厄寄来的信")
-define anaxa_letter_notsent = Character("那刻夏的回信")
-define anaxa_fullname = Character("阿那克萨戈拉斯")
-define anaxa_teacher = Character("恩贝多克利斯")
-define anaxa_machine = Character("机巧那刻夏")
-define anaxa = Character("那刻夏")
-define anaxa_in_memory = Character("记忆中的那刻夏")
-define phainon_in_memory = Character("记忆中的白厄")
-define father = Character("熟悉的男声")
-define father_name = Character("希洛尼摩斯")
-define mother = Character("熟悉的女声")
-define mother_name = Character("奥妲塔")
-define friend = Character("儿时的玩伴")
-define narrator = Character("")
+define phainon = Character(_("白厄"))
+define anaxa_no = Character(_("那刻夏？"))
+define anaxa_letter = Character(_("那刻夏的字条"))
+define phainon_letter = Character(_("白厄寄来的信"))
+define anaxa_letter_notsent = Character(_("那刻夏的回信"))
+define anaxa_fullname = Character(_("阿那克萨戈拉斯"))
+define anaxa_teacher = Character(_("恩贝多克利斯"))
+define anaxa_machine = Character(_("机巧那刻夏"))
+define anaxa = Character(_("那刻夏"))
+define anaxa_in_memory = Character(_("记忆中的那刻夏"))
+define phainon_in_memory = Character(_("记忆中的白厄"))
+define father = Character(_("熟悉的男声"))
+define father_name = Character(_("希洛尼摩斯"))
+define mother = Character(_("熟悉的女声"))
+define mother_name = Character(_("奥妲塔"))
+define friend = Character(_("儿时的玩伴"))
+define narrator = Character(_(""))
 define narrator_dark_anaxa = Character(
-    "那刻夏",
+    _("那刻夏"),
     what_color="#000000",
     who_color="#000000",
     what_outlines=[],

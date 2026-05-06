@@ -228,19 +228,19 @@ screen quick_menu():
             spacing 30
             yoffset -10  # 稍微留点间距
 
-            textbutton "保存" action ShowMenu("save"):
+            textbutton _("保存") action ShowMenu("save"):
                 style "quick_text_button"
 
-            textbutton "读取" action ShowMenu("load"):
+            textbutton _("读取") action ShowMenu("load"):
                 style "quick_text_button"
 
-            textbutton "回看" action ShowMenu("history"):
+            textbutton _("回看") action ShowMenu("history"):
                 style "quick_text_button"
 
-            textbutton "设置" action ShowMenu("preferences"):
+            textbutton _("设置") action ShowMenu("preferences"):
                 style "quick_text_button"
 
-            textbutton "主菜单" action MainMenu():
+            textbutton _("主菜单") action MainMenu():
                 style "quick_text_button"
 
 # 让 quick_menu 始终显示（开始游戏或读取存档后）
@@ -541,12 +541,12 @@ screen main_menu():
         spacing 20
         
         # 开始游戏
-        textbutton "开始游戏":
+        textbutton _("开始游戏"):
             action Jump("new_game")
             style "main_menu_button"
         
         # 读取存档
-        textbutton "读取存档":
+        textbutton _("读取存档"):
             action ShowMenu("load")
             style "main_menu_button"
         
@@ -556,7 +556,7 @@ screen main_menu():
             style "main_menu_button"
         
         # 退出游戏
-        textbutton "退出游戏":
+        textbutton _("退出游戏"):
             action Quit(confirm=True)
             style "main_menu_button"
     
@@ -576,7 +576,7 @@ screen cg_gallery_screen():
     # add "#000000C0"
     
     # 标题
-    text "CG 画廊":
+    text _("CG 画廊"):
         xalign 0.5
         yalign 0.08
         color "#FFFFFF"
@@ -624,7 +624,7 @@ screen cg_gallery_screen():
                             size 18
                     else:
                         # 未解锁：显示占位文字
-                        text "未解锁":
+                        text _("未解锁"):
                             xalign 0.5
                             yalign 0.5
                             color "#FFFFFF"
@@ -636,9 +636,9 @@ screen cg_gallery_screen():
                             size 16
     
     # 返回按钮
-    textbutton "返回":
+    textbutton _("返回"):
         xalign 0.5
-        yalign 0.92
+        yalign 0.95
         style "main_menu_button"
         action Return()
 
@@ -718,11 +718,11 @@ screen yesno_prompt(message, yes_action, no_action):
                 xalign 0.5
                 spacing 20
 
-                textbutton "确定":
+                textbutton _("确定"):
                     action yes_action
                     style "confirm_button"
 
-                textbutton "取消":
+                textbutton _("取消"):
                     action no_action
                     style "confirm_button"
 
@@ -874,7 +874,7 @@ screen file_slots(title):
 
                                 # 时间和名称
                                 vbox:
-                                    xalign 0.0
+                                    xalign 0.2
                                     text FileTime(slot, format=_("{#file_time}%Y-%m-%d %H:%M"), empty=_("空槽")):
                                         style "slot_time_text"
                                         size 18
@@ -1131,6 +1131,17 @@ screen preferences():
                     style "pref_label"
                 bar value Preference("sound volume") style "pref_bar"
 
+            # 语言选择
+            vbox:
+                spacing 10
+                text _("语言"):
+                    style "pref_label"
+                hbox:
+                    xalign 0.5
+                    spacing 20
+                    textbutton _("中文") action Language("schinese") style "pref_textbutton"
+                    textbutton _("英文") action Language("english") style "pref_textbutton"
+
 
 style pref_label:
     color "#FFFFFF"
@@ -1152,6 +1163,17 @@ style pref_bar:
 style pref_slider:
     xsize 400
     ysize 30
+
+style pref_textbutton:
+    xminimum 190
+    xpadding 8
+    ypadding 4
+    hover_background "#FFFFFF40"
+
+style pref_textbutton_text:
+    color "#FFFFFF"
+    size 18
+    xalign 0.5
 
 # ========================================
 # 简洁书信页面
@@ -1406,74 +1428,74 @@ screen credits_rolling():
                 spacing 20
                 at credits_scroll_up(60.0)
                 
-                text " " size 120
+                text _(" ") size 120
                 
                 # 主标题
-                text "《游戏名称》" xalign 0.5 size 64 color "#ffd700"
+                text _("《游戏名称》") xalign 0.5 size 64 color "#ffd700"
                 
                 null height 80
                 
                 # STAFF
-                text "—— STAFF ——" xalign 0.5 size 32 color "#888"
+                text _("—— STAFF ——") xalign 0.5 size 32 color "#888"
                 
                 null height 40
                 
-                text "策划" xalign 0.5 size 24 color "#aaa"
+                text _("策划") xalign 0.5 size 24 color "#aaa"
                 text "XXX" xalign 0.5 size 32
                 
                 null height 30
                 
-                text "剧本" xalign 0.5 size 24 color "#aaa"
+                text _("剧本") xalign 0.5 size 24 color "#aaa"
                 text "XXX" xalign 0.5 size 32
                 
                 null height 30
                 
-                text "程序" xalign 0.5 size 24 color "#aaa"
+                text _("程序") xalign 0.5 size 24 color "#aaa"
                 text "XXX" xalign 0.5 size 32
                 
                 null height 30
                 
-                text "美术" xalign 0.5 size 24 color "#aaa"
+                text _("美术") xalign 0.5 size 24 color "#aaa"
                 text "XXX" xalign 0.5 size 32
                 
                 null height 30
                 
-                text "音乐" xalign 0.5 size 24 color "#aaa"
+                text _("音乐") xalign 0.5 size 24 color "#aaa"
                 text "XXX" xalign 0.5 size 32
                 
                 null height 60
                 
                 # CAST
-                text "—— CAST ——" xalign 0.5 size 32 color "#888"
+                text _("—— CAST ——") xalign 0.5 size 32 color "#888"
                 
                 null height 40
                 
-                text "主角" xalign 0.5 size 24 color "#aaa"
+                text _("主角") xalign 0.5 size 24 color "#aaa"
                 text "CV: XXX" xalign 0.5 size 28
                 
                 null height 20
                 
-                text "配角A" xalign 0.5 size 24 color "#aaa"
+                text _("配角A") xalign 0.5 size 24 color "#aaa"
                 text "CV: YYY" xalign 0.5 size 28
                 
                 null height 60
                 
                 # 特别感谢
-                text "—— SPECIAL THANKS ——" xalign 0.5 size 32 color "#888"
+                text _("—— SPECIAL THANKS ——") xalign 0.5 size 32 color "#888"
                 
                 null height 40
                 
-                text "感谢所有支持我们的玩家" xalign 0.5 size 28
-                text "感谢测试组的辛勤付出" xalign 0.5 size 28
+                text _("感谢所有支持我们的玩家") xalign 0.5 size 28
+                text _("感谢测试组的辛勤付出") xalign 0.5 size 28
                 
                 null height 100
                 
                 # 结尾
-                text "感谢游玩" xalign 0.5 size 48 color "#ffd700"
+                text _("感谢游玩") xalign 0.5 size 48 color "#ffd700"
                 
-                text " " size 120
-                text " " size 120
-                text " " size 120
+                text _(" ") size 120
+                text _(" ") size 120
+                text _(" ") size 120
     
     # 跳过按钮
     button:
@@ -1482,7 +1504,7 @@ screen credits_rolling():
         action [Stop("music"), Hide("credits_rolling")]
     
     # 提示
-    text "点击任意位置结束":
+    text _("点击任意位置结束"):
         xalign 0.5
         yalign 0.97
         size 16

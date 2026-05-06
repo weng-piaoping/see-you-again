@@ -1,0 +1,24 @@
+# vscode
+
+.vscode/
+
+# game
+
+log.txt
+errors.txt
+traceback.txt
+
+cache/
+saves/
+
+# Ren'Py
+
+*.pyc
+*.pyo
+
+*.rpyc
+*.rpyb
+*.rpymc
+
+lib/
+renpy/
