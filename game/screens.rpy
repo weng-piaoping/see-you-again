@@ -554,6 +554,11 @@ screen main_menu():
         textbutton _("CG 画廊"):
             action Jump("cg_gallery")
             style "main_menu_button"
+
+        # 设置
+        textbutton _("设置"):
+            action ShowMenu("preferences")
+            style "main_menu_button"
         
         # 退出游戏
         textbutton _("退出游戏"):
