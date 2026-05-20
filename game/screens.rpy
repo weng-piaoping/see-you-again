@@ -1111,6 +1111,7 @@ screen preferences():
     use game_menu(_("设置")):
 
         vbox:
+            xsize 400
             xalign 0.5
             yalign 0.5
             spacing 40
@@ -1119,43 +1120,56 @@ screen preferences():
             vbox:
                 spacing 10
                 text _("文字速度"):
+                    xfill True
                     style "pref_label"
-                bar value Preference("text speed") style "pref_bar"
+                bar value Preference("text speed"):
+                    xfill True
+                    style "pref_bar"
 
             # 音乐音量
             vbox:
                 spacing 10
                 text _("音乐音量"):
+                    xfill True
                     style "pref_label"
-                bar value Preference("music volume") style "pref_bar"
+                bar value Preference("music volume"):
+                    xfill True
+                    style "pref_bar"
 
             # 音效音量
             vbox:
                 spacing 10
                 text _("音效音量"):
+                    xfill True
                     style "pref_label"
-                bar value Preference("sound volume") style "pref_bar"
+                bar value Preference("sound volume"):
+                    xfill True
+                    style "pref_bar"
 
             # 语言选择
             vbox:
                 spacing 10
                 text _("语言"):
                     style "pref_label"
-                hbox:
-                    xalign 0.5
+                grid 2 1:
+                    xfill True
                     spacing 20
-                    textbutton _("中文") action Language("schinese") style "pref_textbutton"
-                    textbutton _("英文") action Language("english") style "pref_textbutton"
+                    textbutton _("中文"):
+                        xfill True
+                        style "pref_textbutton"
+                        action Language("schinese")
+                    textbutton _("英文"):
+                        xfill True
+                        style "pref_textbutton"
+                        action Language("english")
 
 
 style pref_label:
     color "#FFFFFF"
     size 22
-    min_width 200
     xalign 0.5
 
 style pref_bar:
-    xsize 400
     ysize 30
     left_bar "#FFFFFF40"
     right_bar "#00000080"
@@ -1166,11 +1180,9 @@ style pref_bar:
     thumb_offset 10
 
 style pref_slider:
-    xsize 400
     ysize 30
 
 style pref_textbutton:
-    xminimum 190
     xpadding 8
     ypadding 4
     hover_background "#FFFFFF40"
