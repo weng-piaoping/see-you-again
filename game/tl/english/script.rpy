@@ -2913,31 +2913,31 @@ translate english chapter_03_after_24bf315e:
 translate english chapter_03_after_ed79d6b8:
 
     # anaxa "打起精神，这可不像你。"
-    anaxa ""
+    anaxa "Chin up. This isn't like you."
 
 # game/script.rpy:1160
 translate english chapter_03_after_21790c58:
 
     # phainon "那刻夏老师？！"
-    phainon ""
+    phainon "Professor?"
 
 # game/script.rpy:1162
 translate english chapter_03_after_fd0fd076:
 
     # phainon "我以为你已经……"
-    phainon ""
+    phainon "I thought you've..."
 
 # game/script.rpy:1164
 translate english chapter_03_after_12f15268:
 
     # anaxa "……怎么了？"
-    anaxa ""
+    anaxa "...What?"
 
 # game/script.rpy:1167
 translate english chapter_03_after_797fd202:
 
     # anaxa "白厄？"
-    anaxa ""
+    anaxa "Phainon?"
 
 # game/script.rpy:1168
 translate english chapter_03_after_d2925dc2:
@@ -4347,7 +4347,7 @@ translate english chapter_02_b7f3bcad:
 translate english chapter_02_edcc4296:
 
     # phainon "……我如果再早点来就好了。"
-    phainon ""
+    phainon "...If only I was here sooner."
 
 # game/script.rpy:1593
 translate english chapter_02_3964b73f:
@@ -4419,13 +4419,13 @@ translate english chapter_02_19e0d725:
 translate english chapter_02_4576d275:
 
     # anaxa "我们……咳……"
-    anaxa ""
+    anaxa "We... Cough"
 
 # game/script.rpy:1607
 translate english chapter_02_414f507f:
 
     # phainon "……好多血。"
-    phainon ""
+    phainon "...There's so much blood."
 
 # game/script.rpy:1608
 translate english chapter_02_6fbd108d:
@@ -4611,7 +4611,7 @@ translate english chapter_02_d9eff51f:
 translate english chapter_02_810d2c67_2:
 
     # phainon "……"
-    phainon ""
+    phainon "..."
 
 # game/script.rpy:1643
 translate english chapter_02_4975f049:
@@ -4719,13 +4719,13 @@ translate english chapter_02_810d2c67_3:
 translate english chapter_02_810d2c67_4:
 
     # phainon "……"
-    phainon ""
+    phainon "..."
 
 # game/script.rpy:1678
 translate english chapter_02_b60a254f_1:
 
     # phainon "无论如何，我想走向有你的未来。"
-    phainon ""
+    phainon "No matter what, I want to be in a future with you in it."
 
 # game/script.rpy:1679
 translate english chapter_02_f1171ad6:
@@ -4755,19 +4755,19 @@ translate english chapter_02_72709eb8_1:
 translate english chapter_02_9a42d823_1:
 
     # phainon "……原来你全部都记得。"
-    phainon ""
+    phainon "...You've remebered everything."
 
 # game/script.rpy:1684
 translate english chapter_02_b657a337_1:
 
     # anaxa "哼，身为你的老师，我当然记得。"
-    anaxa ""
+    anaxa "Hmph, as your professor, of course I would."
 
 # game/script.rpy:1685
 translate english chapter_02_054f00c7_1:
 
     # phainon "但我到头来也没能拯救世人，又能算什么英雄呢？"
-    phainon ""
+    phainon "But in the end, I couldn't save anyone. What kind of hero does this make me?"
 
 # game/script.rpy:1686
 translate english chapter_02_02015764_1:
@@ -4791,55 +4791,55 @@ translate english chapter_02_eb48914b_1:
 translate english chapter_02_d0973613_1:
 
     # phainon "老师是在责怪我吗？"
-    phainon ""
+    phainon "Is the professor blaming me?"
 
 # game/script.rpy:1690
 translate english chapter_02_867b423b_1:
 
     # anaxa "哼，怎么会。"
-    anaxa ""
+    anaxa "Hmpf, as if."
 
 # game/script.rpy:1691
 translate english chapter_02_a3b6b75a_1:
 
     # phainon "抱歉，我只是……不想让你担心。"
-    phainon ""
+    phainon "Sorry... I just didn't want you to worry."
 
 # game/script.rpy:1692
 translate english chapter_02_d9eff51f_1:
 
     # anaxa "白厄，你一直都是……咳、咳咳……"
-    anaxa ""
+    anaxa "Phainon, you've always.... Cough, cough"
 
 # game/script.rpy:1694
 translate english chapter_02_810d2c67_5:
 
     # phainon "……"
-    phainon ""
+    phainon "..."
 
 # game/script.rpy:1695
 translate english chapter_02_4975f049_1:
 
     # phainon "……那刻夏老师？"
-    phainon ""
+    phainon "...Professor?"
 
 # game/script.rpy:1696
 translate english chapter_02_39d7d1fa_1:
 
     # phainon "……那刻夏老师！"
-    phainon ""
+    phainon "...Professor!"
 
 # game/script.rpy:1697
 translate english chapter_02_c4fae53b_2:
 
     # anaxa "……"
-    anaxa ""
+    anaxa "..."
 
 # game/script.rpy:1698
 translate english chapter_02_c5ae308f_1:
 
     # anaxa "……一直都是……令我骄傲的……学生。"
-    anaxa ""
+    anaxa "...Always been... my... most brilliant... student."
 
 # game/script.rpy:1703
 translate english chapter_02_ff510d2d_1:
@@ -4851,13 +4851,13 @@ translate english chapter_02_ff510d2d_1:
 translate english chapter_02_e1df081f_1:
 
     # phainon "……永别了，吾师。"
-    phainon ""
+    phainon "Farewell, Professor."
 
 # game/script.rpy:1705
 translate english chapter_02_31c5df96_1:
 
     # phainon "至少，这一次……我能和你好好道别了。"
-    phainon ""
+    phainon "At least, this time... I was able to properly bid you farewell."
 
 # game/script.rpy:1706
 translate english chapter_02_2350d2dc_1:
@@ -4875,19 +4875,19 @@ translate english chapter_02_b2aa6695:
 translate english chapter_02_7b0e06e0:
 
     # narrator "要带走理性火种吗？"
-    narrator ""
+    narrator "Will you take away the coreflame of Reason?"
 
 # game/script.rpy:1720
 translate english chapter_02_e7510345:
 
     # narrator "要就此放弃火种吗？"
-    narrator ""
+    narrator "Will you abandon the coreflame?"
 
 # game/script.rpy:1723
 translate english chapter_02_41fe183d:
 
     # narrator "确认要就此放弃火种吗？"
-    narrator ""
+    narrator "Are you sure that you'll abandon the coreflame?"
 
 # game/script.rpy:1726
 translate english chapter_02_a036140d:
@@ -5177,7 +5177,7 @@ translate english strings:
 
     # game/script.rpy:327
     old "不归还"
-    new ""
+    new "Do not return the coreflame"
 
     # game/script.rpy:366
     old "我愿意"
@@ -5185,11 +5185,11 @@ translate english strings:
 
     # game/script.rpy:369
     old "……"
-    new ""
+    new "..."
 
     # game/script.rpy:381
     old "留在原地"
-    new ""
+    new "Remain here"
 
     # game/script.rpy:432
     old "成为神明"
@@ -5197,7 +5197,7 @@ translate english strings:
 
     # game/script.rpy:434
     old "拒绝成神"
-    new ""
+    new "Refuse godhood"
 
     # game/script.rpy:599
     old "主菜单"
@@ -5217,15 +5217,15 @@ translate english strings:
 
     # game/script.rpy:677
     old "继续观察"
-    new ""
+    new "Continue to observe"
 
     # game/script.rpy:686
     old "我们是不是在哪里见过"
-    new ""
+    new "Have we met eachother before?"
 
     # game/script.rpy:691
     old "没有，我就住在旁边"
-    new ""
+    new "Nope, I live closeby."
 
     # game/script.rpy:743
     old "物质转化"
@@ -5237,15 +5237,15 @@ translate english strings:
 
     # game/script.rpy:747
     old "灵魂解析"
-    new ""
+    new "Soul transmutation"
 
     # game/script.rpy:749
     old "以上全部"
-    new ""
+    new "All of the above"
 
     # game/script.rpy:756
     old "黄金"
-    new ""
+    new "Gold"
 
     # game/script.rpy:758
     old "神性"
@@ -5273,19 +5273,19 @@ translate english strings:
 
     # game/script.rpy:780
     old "金木水火"
-    new ""
+    new "Gold, wood, water, fire"
 
     # game/script.rpy:782
     old "水气土火"
-    new ""
+    new "Water, air, earth, fire"
 
     # game/script.rpy:785
     old "木水火土"
-    new ""
+    new "Wood, water, fire, earth "
 
     # game/script.rpy:796
     old "再来一次"
-    new ""
+    new "Again"
 
     # game/script.rpy:798
     old "清空答卷，重新蒙一遍"
@@ -5293,23 +5293,23 @@ translate english strings:
 
     # game/script.rpy:809
     old "不用了"
-    new ""
+    new "No need."
 
     # game/script.rpy:846
     old "其实我来自未来"
-    new ""
+    new "Actually, I come from the future."
 
     # game/script.rpy:849
     old "我认识你，那刻夏"
-    new ""
+    new "I know you, Anaxa."
 
     # game/script.rpy:852
     old "我认识你，阿那克萨戈拉斯"
-    new ""
+    new "I know you, Anaxagoras."
 
     # game/script.rpy:930
     old "炼金术这么厉害"
-    new ""
+    new "Alchemy is amazing"
 
     # game/script.rpy:999
     old "查看书桌上的纸张"
@@ -5321,31 +5321,31 @@ translate english strings:
 
     # game/script.rpy:1009
     old "抽签"
-    new ""
+    new "Take a fortune slip"
 
     # game/script.rpy:1014
     old "不抽签"
-    new ""
+    new "Do not take it"
 
     # game/script.rpy:1016
     old "查看书架上的相册"
-    new ""
+    new "Take the album on the bookshelf"
 
     # game/script.rpy:1019
     old "直接出发"
-    new ""
+    new "Leave this place"
 
     # game/script.rpy:1069
     old "一张未送出的留言条"
-    new ""
+    new "An unsent note"
 
     # game/script.rpy:1073
     old "拆封过的信件"
-    new ""
+    new "An opened letter"
 
     # game/script.rpy:1084
     old "未寄出的回信"
-    new ""
+    new "An unsent letter"
 
     # game/script.rpy:1089
     old "一份共创实验日志"
@@ -5357,31 +5357,31 @@ translate english strings:
 
     # game/script.rpy:1192
     old "完成炼金仪式"
-    new ""
+    new "Complete the alchemy transmutation"
 
     # game/script.rpy:1301
     old "继续向前"
-    new ""
+    new "Continue forward"
 
     # game/script.rpy:1324
     old "我拒绝"
-    new ""
+    new "I refuse"
 
     # game/script.rpy:1346
     old "完成最后的炼金仪式"
-    new ""
+    new "Complete the final alchemy transmutation"
 
     # game/script.rpy:1717
     old "带走它"
-    new ""
+    new "Take it away"
 
     # game/script.rpy:1719
     old "不带走"
-    new ""
+    new "Don't take it"
 
     # game/script.rpy:1722
     old "放弃火种"
-    new ""
+    new "Abandon the coreflame"
 
     # game/script.rpy:1725
     old "确认放弃"
@@ -5389,11 +5389,11 @@ translate english strings:
 
     # game/script.rpy:1732
     old "带走火种"
-    new ""
+    new "Take away the coreflame"
 
     # game/script.rpy:1894
     old "返回主菜单"
-    new ""
+    new "Back to main menu"
 
     # game/script.rpy:143
     old "本游戏为白厄x那刻夏CP向，仅面向喜爱厄夏CP内容的玩家\n游戏内容为基于原作崩坏·星穹铁道的同人二创独立故事线"
