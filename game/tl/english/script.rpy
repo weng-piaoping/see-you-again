@@ -3861,7 +3861,7 @@ translate english chapter_02_7c55c929:
 translate english chapter_02_6dd32e3d:
 
     # phainon_in_memory "书上也说，神悟树庭能看到星空已经是很多年前的事了。您曾经看到过这样的星空吗？"
-    phainon_in_memory ""
+    phainon_in_memory "In the textbooks,"
 
 # game/script.rpy:1472
 translate english chapter_02_b26f28f3:
