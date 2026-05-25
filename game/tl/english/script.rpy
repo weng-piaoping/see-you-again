@@ -1773,7 +1773,7 @@ translate english chapter_01_after_7bb14bcc:
 translate english chapter_01_after_782bcaa2:
 
     # anaxa "呵，你想成为英雄？"
-    anaxa "So you want to be the hero?"
+    anaxa "Huh, so you want to be the hero?"
 
 # game/script.rpy:881
 translate english chapter_01_after_dce4cea2:
@@ -1791,691 +1791,691 @@ translate english chapter_01_after_810d2c67_2:
 translate english chapter_01_after_ff5b7aad:
 
     # anaxa "听好了，永远不要寄希望于「重来」。"
-    anaxa "Listen up. Never pin your hopes on [starting over]. "
+    anaxa "Listen up. Never put your hopes on [starting over]. "
 
 # game/script.rpy:884
 translate english chapter_01_after_1f058f6f:
 
     # anaxa "「再来一次就好了……」这样的话的确屡见不鲜。"
-    anaxa ""
+    anaxa "'If only I had one more chance...'  I've heard the same thing all the time."
 
 # game/script.rpy:885
 translate english chapter_01_after_bb2e32f3:
 
     # anaxa "但真正获得重来的机会时，又有几个人能把握？"
-    anaxa ""
+    anaxa "But when granted a second chance, how many can actually seize it and make it right?"
 
 # game/script.rpy:886
 translate english chapter_01_after_8cbd36e2:
 
     # anaxa "要把希望留给现在，留给你能创造的「变量」。明白了吗？"
-    anaxa ""
+    anaxa "We must leave hope for the present, so you can create the 'variable' in this moment. Do you understand?"
 
 # game/script.rpy:887
 translate english chapter_01_after_98a0ef7b:
 
     # phainon "嗯，我想过这个问题。"
-    phainon ""
+    phainon "Hm, I've thought about it."
 
 # game/script.rpy:888
 translate english chapter_01_after_8e9c9d5e:
 
     # phainon "于我而言，重来一次，我依旧不知道正确的路。"
-    phainon ""
+    phainon "For me, even when granted a second chance, I still wouldn't know what would be the right thing to do."
 
 # game/script.rpy:889
 translate english chapter_01_after_9abf8ef8:
 
     # anaxa "这世界的运转总是有一套极其荒谬的规则。"
-    anaxa ""
+    anaxa "This world operates in an utterly absurd way."
 
 # game/script.rpy:890
 translate english chapter_01_after_d021070c:
 
     # anaxa "有时候我们没办法去改变条件，那就去创造新的条件。"
-    anaxa ""
+    anaxa "Sometimes, we can't change the preexisting conditions, so we must go create new ones."
 
 # game/script.rpy:891
 translate english chapter_01_after_8136bf9e:
 
     # anaxa "就算无法改变、无法创造，那也不是某一人的责任。"
-    anaxa ""
+    anaxa "And if we can neither change what we are given nor forge new path, the fault does not lie within any single person."
 
 # game/script.rpy:892
 translate english chapter_01_after_07c3b77e:
 
     # anaxa "经历与感受，这些都是无比宝贵的。"
-    anaxa ""
+    anaxa "Our emotions and experiences- those are incredibly precious."
 
 # game/script.rpy:893
 translate english chapter_01_after_c9d36ad5:
 
     # phainon "嗯，你说得对。"
-    phainon ""
+    phainon "Yeah, you're right."
 
 # game/script.rpy:894
 translate english chapter_01_after_b10233cb:
 
     # phainon "就像现在……我又见了你一面，这就足够了。"
-    phainon ""
+    phainon "Like right now... Seeing you aagain, that's enough for me."
 
 # game/script.rpy:895
 translate english chapter_01_after_c4fae53b:
 
     # anaxa "……"
-    anaxa ""
+    anaxa "..."
 
 # game/script.rpy:896
 translate english chapter_01_after_c47d60cb:
 
     # anaxa "看来你所熟知的那个我，已经行至终点了。"
-    anaxa ""
+    anaxa "It seems the 'me' you've known so well has already reached the end of his journey."
 
 # game/script.rpy:897
 translate english chapter_01_after_38f08d95:
 
     # phainon "……嗯。"
-    phainon ""
+    phainon "...Yeah."
 
 # game/script.rpy:898
 translate english chapter_01_after_f354cf8d:
 
     # phainon "我很想再见你一面，一直都……"
-    phainon ""
+    phainon "I've wanted to see you again so badly, even until now..."
 
 # game/script.rpy:899
 translate english chapter_01_after_9e41e657:
 
     # phainon "抱歉，我说了多余的话。"
-    phainon ""
+    phainon "Sorry, I've babbled too much."
 
 # game/script.rpy:900
 translate english chapter_01_after_83ea1eb6:
 
     # phainon "我知道，你并不是我的那个老师，我现在也不是你的学生。"
-    phainon ""
+    phainon "I know that in this life, you're not my teacher, nor am I your student."
 
 # game/script.rpy:901
 translate english chapter_01_after_d9d51d27:
 
     # anaxa "若你日后是我的学生，应当知晓我的理论：人的本质是由灵魂决定的。"
-    anaxa ""
+    anaxa "If you were to become my student some day, you should know my theory: the soul defines a person's very being."
 
 # game/script.rpy:902
 translate english chapter_01_after_ed669a40:
 
     # anaxa "那么，哪怕身在不同时间线、甚至不同维度……"
-    anaxa ""
+    anaxa "Thus, even across different timelines, or different dimensions... "
 
 # game/script.rpy:903
 translate english chapter_01_after_ce004f55:
 
     # anaxa "灵魂的本质，万变不离其宗。"
-    anaxa ""
+    anaxa "The essence of the soul remains constant amidst all change."
 
 # game/script.rpy:904
 translate english chapter_01_after_b32c4017:
 
     # anaxa "如何，和你所熟知的阿那克萨戈拉斯，理论是否相同？"
-    anaxa ""
+    anaxa "Well? Is that the same as the Anaxagoras you know?"
 
 # game/script.rpy:905
 translate english chapter_01_after_f2fd45b1:
 
     # phainon "哈哈，果然是那刻夏老师。"
-    phainon ""
+    phainon "Haha, the Anaxa I know is the same as ever."
 
 # game/script.rpy:906
 translate english chapter_01_after_f9691771:
 
     # phainon "我可以……和你拥抱一下吗？"
-    phainon ""
+    phainon "Can I... give you a hug?"
 
 # game/script.rpy:907
 translate english chapter_01_after_35a17b56:
 
     # narrator "那刻夏犹豫半晌，向他张开双臂，轻轻搂住了他。"
-    narrator ""
+    narrator "Anaxa hesitated for a moment, then opened his arm and gently embraced him."
 
 # game/script.rpy:908
 translate english chapter_01_after_0ba70f52:
 
     # narrator "在这样温暖的怀抱里，他想起了那个规则。"
-    narrator ""
+    narrator "In that warm embrance, he remembered that rule."
 
 # game/script.rpy:909
 translate english chapter_01_after_a22bf110:
 
     # anaxa_no "请记住，你必须保守秘密，不能告诉任何一人你是时空穿越者，否则一切付出将{color=#FF0000}前功尽弃{/color}。"
-    anaxa_no ""
+    anaxa_no "Remember, you must absolutely keep this a secret. Do not tell anyone that you have travelled back in time, or else all your efforts will be {color=#FF0000}for naught.{/color}"
 
 # game/script.rpy:910
 translate english chapter_01_after_e205ca0c:
 
     # narrator "……没错，他没有遵守好这个规则。"
-    narrator ""
+    narrator "...Alas, he hadn't followed that rule."
 
 # game/script.rpy:914
 translate english chapter_01_after_be9e9923:
 
     # narrator "那刻夏的声音远去了。"
-    narrator ""
+    narrator "Anaxa's voice faded away."
 
 # game/script.rpy:915
 translate english chapter_01_after_c6aae1a2:
 
     # narrator "故乡的清风，氤氲的麦香，也逐渐消失在时间的洪流里。"
-    narrator ""
+    narrator "The gentle breeze of his homeland, the fragrance of wheat, also vanished into the torrent of time."
 
 # game/script.rpy:922
 translate english chapter_01_after_bb69b864:
 
     # narrator "短暂的一次回溯里，他见到了少年时的那刻夏。"
-    narrator ""
+    narrator "In that brief encounter, he was able to meet the youthful Anaxa."
 
 # game/script.rpy:923
 translate english chapter_01_after_b1dab26b:
 
     # narrator "关于哀丽秘榭的一切戛然而止。唯有手心里残余的另一人的体温在提醒他，那不是一场梦。"
-    narrator ""
+    narrator "Everything about 'Aedes Elysiae' came to an abrupt halt. Only the lingering warm of that frail hand reminded him that it wasn't a dream."
 
 # game/script.rpy:924
 translate english chapter_01_after_ce1be7f6:
 
     # narrator "因没能遵守时间穿越的规则，他被打回了最初的起点——即将覆灭的世界。"
-    narrator ""
+    narrator "Because he failed to obey the rule of time, he was thrown back to the very beginning- a world on the brink of destruction."
 
 # game/script.rpy:925
 translate english chapter_01_after_a4fab064:
 
     # narrator "但体温与心跳，暖风与麦香，都有真切存在过的痕迹。"
-    narrator ""
+    narrator "But the warmth, the heartbeat, the wheat-scented wind... all left traces of their existence."
 
 # game/script.rpy:926
 translate english chapter_01_after_7407fb9d:
 
     # narrator "那刻夏的影子已然不在那里。等待他的，唯有即将被黑潮吞没的世界。"
-    narrator ""
+    narrator "Anaxa's shadow was no longer there. All that awaited him was a world about to be devoured by the black tide."
 
 # game/script.rpy:927
 translate english chapter_01_after_08b4a4c8:
 
     # narrator "现在的翁法罗斯，已经步入倒计时。"
-    narrator ""
+    narrator "Amphoreus began its final countdown."
 
 # game/script.rpy:928
 translate english chapter_01_after_810d2c67_3:
 
     # phainon "……"
-    phainon ""
+    phainon "..."
 
 # game/script.rpy:931
 translate english chapter_01_after_919e7b92:
 
     # anaxa "炼金术研究物质转换，也就是说，万物皆可熔炼。"
-    anaxa ""
+    anaxa "Alchemy is about the transmutation of matters. In other worlds, all things can be transmutated."
 
 # game/script.rpy:932
 translate english chapter_01_after_b753d0c0:
 
     # anaxa "当实验条件达到完美状态，时间也可成为转换的一环。"
-    anaxa ""
+    anaxa "Given the right experimental conditions, even time itself can be transmutated."
 
 # game/script.rpy:933
 translate english chapter_01_after_03a32129:
 
     # phainon "你是指……时间也可作为实验材料？"
-    phainon ""
+    phainon "You mean... Time can be used as an experiment material?"
 
 # game/script.rpy:934
 translate english chapter_01_after_e5b9ecba:
 
     # anaxa "不太准确，时间只是炼金术的表现形式之一，并非真正的物质基础。"
-    anaxa ""
+    anaxa "Not quite, time is merely one manifestation of alchemy. It does not make up the fundamental substance."
 
 # game/script.rpy:935
 translate english chapter_01_after_76f50b39:
 
     # phainon "那么，怎样才能达到理想状态呢？"
-    phainon ""
+    phainon "Then, what can we do to attain those perfect experiment conditions?"
 
 # game/script.rpy:936
 translate english chapter_01_after_29aaf061:
 
     # anaxa "现实条件几乎不可能，现阶段，仅仅存在于理论假说。"
-    anaxa ""
+    anaxa "It's quasi impossible in real life. As of now, it exists only as a hypothesis."
 
 # game/script.rpy:939
 translate english chapter_01_after_aee8f6c6:
 
     # anaxa "没有及格。"
-    anaxa ""
+    anaxa "You failed."
 
 # game/script.rpy:940
 translate english chapter_01_after_37181104:
 
     # anaxa "不过没关系，学问本就是循序渐进的过程。"
-    anaxa ""
+    anaxa "But that's alright. Learning is a gradual process, after all."
 
 # game/script.rpy:941
 translate english chapter_01_after_3d5a2939:
 
     # anaxa "你叫什么名字？"
-    anaxa ""
+    anaxa "What is your name?"
 
 # game/script.rpy:942
 translate english chapter_01_after_7af9a208:
 
     # narrator "而这时白厄才想起来，与那刻夏的相遇太过自然，他甚至忘记了自我介绍。"
-    narrator ""
+    narrator "Only now did Phainon realized, his meeting with Anaxa had felt so natural, he'd even forgotten to introduce himself properly."
 
 # game/script.rpy:943
 translate english chapter_01_after_19962573:
 
     # phainon "我叫白厄，你呢？"
-    phainon ""
+    phainon "My name is Phainon. What about you?"
 
 # game/script.rpy:944
 translate english chapter_01_after_a810329c:
 
     # anaxa "阿那克萨戈拉斯。"
-    anaxa ""
+    anaxa "Anaxagoras."
 
 # game/script.rpy:945
 translate english chapter_01_after_a9ea32aa:
 
     # phainon "好的，那刻……阿那克萨戈拉斯老师。"
-    phainon ""
+    phainon "Alright, Professor Anaxa...goras."
 
 # game/script.rpy:946
 translate english chapter_01_after_ceb1d058:
 
     # anaxa "不用叫我老师，我也并非老师。"
-    anaxa ""
+    anaxa "No need to call me Professor. I'm not one anyways."
 
 # game/script.rpy:947
 translate english chapter_01_after_a912d9d7:
 
     # phainon "只是我个人的习惯。"
-    phainon ""
+    phainon "Sorry, it's a habit of mine."
 
 # game/script.rpy:948
 translate english chapter_01_after_f95909b6:
 
     # phainon "我日后也想去神悟树庭学习，到那时还请……多多指教。"
-    phainon ""
+    phainon "I hope to study at the Grove of Epiphany one day. When that time comes, please guide me."
 
 # game/script.rpy:949
 translate english chapter_01_after_a3ec04bc:
 
     # anaxa "未来的事交给未来决定，不如做好当下该做的。"
-    anaxa ""
+    anaxa "Let's worry about the future in the future. It is better to focus on the present."
 
 # game/script.rpy:950
 translate english chapter_01_after_810d2c67_4:
 
     # phainon "……"
-    phainon ""
+    phainon "..."
 
 # game/script.rpy:951
 translate english chapter_01_after_aa7cf26e:
 
     # phainon "但我们的未来，又在哪里呢？"
-    phainon ""
+    phainon "But where would our future lead us?"
 
 # game/script.rpy:952
 translate english chapter_01_after_03b1cb07:
 
     # anaxa "你年纪还小，又何必急于一时。"
-    anaxa ""
+    anaxa "You're too young to be worrying about such things."
 
 # game/script.rpy:953
 translate english chapter_01_after_e226e1b2:
 
     # phainon "不……"
-    phainon ""
+    phainon "No..."
 
 # game/script.rpy:954
 translate english chapter_01_after_e6f7ac89:
 
     # phainon "我没有什么时间了。"
-    phainon ""
+    phainon "I don't have much time left."
 
 # game/script.rpy:955
 translate english chapter_01_after_ee927ec5_1:
 
     # anaxa "嗯？"
-    anaxa ""
+    anaxa "Hm?"
 
 # game/script.rpy:956
 translate english chapter_01_after_67345a70:
 
     # phainon "那刻夏老师，我……"
-    phainon ""
+    phainon "Professor, I..."
 
 # game/script.rpy:957
 translate english chapter_01_after_c4fa8688:
 
     # narrator "灵魂仿佛在燃烧。空间和时间在扭曲。"
-    narrator ""
+    narrator "His soul felt like it was lit on fire. Time and space began to converge."
 
 # game/script.rpy:958
 translate english chapter_01_after_951ba6e8:
 
     # narrator "他预感到身处哀丽秘榭的时间不多了。"
-    narrator ""
+    narrator "He had a feeling his time in 'Aedes Elysiae' was running out."
 
 # game/script.rpy:960
 translate english chapter_01_after_977be38e:
 
     # narrator "一次时间跳跃，似乎维持不了太久。"
-    narrator ""
+    narrator "A singular time wrap did not seem to last very long."
 
 # game/script.rpy:961
 translate english chapter_01_after_29dae656:
 
     # narrator "哀丽秘榭固然令人怀念，但他所奢求的那个转机并不在这里。"
-    narrator ""
+    narrator "As nostalgic as Aedes Elysiae was, the turning point he longed for was not there."
 
 # game/script.rpy:962
 translate english chapter_01_after_bab09e62:
 
     # narrator "然而他的终点，又在何方？"
-    narrator ""
+    narrator "Then, where would be his final destination?"
 
 # game/script.rpy:963
 translate english chapter_01_after_56f63bd9:
 
     # narrator "与那刻夏更早的邂逅，能够为日后的新结局埋下种子吗？"
-    narrator ""
+    narrator "Could the brief meeting with Anaxa earlier plant the seeds for a new future down the road?"
 
 # game/script.rpy:964
 translate english chapter_01_after_a091c73c:
 
     # phainon "头……好痛。"
-    phainon ""
+    phainon "My head... it hurts."
 
 # game/script.rpy:965
 translate english chapter_01_after_db3a71dd:
 
     # anaxa "怎么了？"
-    anaxa ""
+    anaxa "What's wrong?"
 
 # game/script.rpy:966
 translate english chapter_01_after_c9d95163:
 
     # phainon "那刻夏！"
-    phainon ""
+    phainon "Anaxa!"
 
 # game/script.rpy:971
 translate english chapter_01_after_b822cec2:
 
     # phainon "我们未来一定会再次相遇。"
-    phainon ""
+    phainon "We will definitively see eachother again. "
 
 # game/script.rpy:975
 translate english chapter_01_after_a19518e9:
 
     # phainon "我……一定会成为让你骄傲的学生！"
-    phainon ""
+    phainon "I... I will definitively become a student you can be proud of!"
 
 # game/script.rpy:976
 translate english chapter_01_after_9c266a6e:
 
     # phainon "……再见。"
-    phainon ""
+    phainon "...Goodbye."
 
 # game/script.rpy:1000
 translate english check_item_in_house_324f4c5f:
 
     # narrator "几张字条，应当来自于哀丽秘榭的玩伴。"
-    narrator ""
+    narrator "A few scrambled notes, likely from his playmates in Aedes Elysiae."
 
 # game/script.rpy:1001
 translate english check_item_in_house_7fad9abe:
 
     # narrator "一张是不太规整的棋盘格，其上有几枚黑白相间的手绘棋子。从棋子来看白方得胜。"
-    narrator ""
+    narrator "A messily handpainted chessboard with a few hand-carved chess pieces. Judging by the chessboard layout, white had won."
 
 # game/script.rpy:1002
 translate english check_item_in_house_35ef0d4e:
 
     # narrator "一张是演算用的草稿纸，写着几行简单的数学公式。"
-    narrator ""
+    narrator "One was a piece of scratch paper with a few simple arithmatic formulas written on it."
 
 # game/script.rpy:1003
 translate english check_item_in_house_0be36ad6:
 
     # narrator "这个时候的他尚未接触过炼金术，还不知道日后有更高深复杂的公式等着他。"
-    narrator ""
+    narrator "At this time, he hadn't been yet exposed to alchemy and didn't know the more profound and complex formulas awaiting him in the future."
 
 # game/script.rpy:1005
 translate english check_item_in_house_98d4e65f:
 
     # narrator "几个木头小人，模样不算很规整，看得出来雕刻者手艺还不够精湛。"
-    narrator ""
+    narrator "A few small wooden figures, messily carved, showing the creator's lack of skills in his craft."
 
 # game/script.rpy:1006
 translate english check_item_in_house_9acd3ac9:
 
     # narrator "一把稍有磨损的小刀放在旁边，似乎有阵子没在使用。"
-    narrator ""
+    narrator "A slightly chipped knife lied nearly, seemingly unused for a while."
 
 # game/script.rpy:1007
 translate english check_item_in_house_665c992d:
 
     # narrator "还有一个运势抽签桶，要抽取一张签条试试吗？"
-    narrator ""
+    narrator "There was also a basket with fortune-telling slips inside. Would you like to try drawing a slip? "
 
 # game/script.rpy:1011
 translate english check_item_in_house_26bb5100:
 
     # narrator "你抽到了..."
-    narrator ""
+    narrator "You drew..."
 
 # game/script.rpy:1012
 translate english check_item_in_house_6d37184d:
 
     # narrator "[fortune_result]！"
-    narrator ""
+    narrator "[fortune_result]"
 
 # game/script.rpy:1017
 translate english check_item_in_house_88eda572:
 
     # narrator "几张照片。记录了白发少年长大的过程。"
-    narrator ""
+    narrator "Some photos. They documented the white-haired youth's growth."
 
 # game/script.rpy:1018
 translate english check_item_in_house_486c7acc:
 
     # narrator "相册最末尾是一张三人合影的全家福，一小丛风干后的麦穗从页间掉了出来。"
-    narrator ""
+    narrator "At the very end of the album is a family photo of three. A sample of dried wheat sample fell out between the pages."
 
 # game/script.rpy:1036
 translate english chapter_03_90673f7d:
 
     # narrator "碎裂的器材掉落在地面，灰尘和木屑迎面扑来。眼前破败不堪的景象，却来自他曾经熟悉的地方。"
-    narrator ""
+    narrator "Shattered equipment lied on the ground; as he approached, he kicked up a gust of dust. This dilapidated scene before him came from a place he once knew too well."
 
 # game/script.rpy:1037
 translate english chapter_03_799b54de:
 
     # narrator "地上绘制着炼金术的阵法，图案颇为复杂高深，从未在课本上出现过，学生们并不会知晓其中的含义。"
-    narrator ""
+    narrator "An alchemical array lied on the floor, its pattern quite complex and profound, never appearing in textbooks. Students would not understand its meaning."
 
 # game/script.rpy:1038
 translate english chapter_03_810d2c67:
 
     # phainon "……"
-    phainon ""
+    phainon "..."
 
 # game/script.rpy:1040
 translate english chapter_03_555b8ec5:
 
     # narrator "这是智种学派贤人的实验室，它的主人刚才在他眼前停止了呼吸。"
-    narrator ""
+    narrator "This is the laboratory of a Nousporist sage. Its owner had just took his last breathe before his very eyes."
 
 # game/script.rpy:1041
 translate english chapter_03_4b634358:
 
     # narrator "就在这张倒下的桌子旁，他与他的老师曾一起讨论学术问题，也曾在窗边谈论人生理想。"
-    narrator ""
+    narrator "Right beside this fallen table, he and his professor once discussed various academic topics and even talked about life's ideals."
 
 # game/script.rpy:1042
 translate english chapter_03_0312791a:
 
     # phainon "那刻夏老师……"
-    phainon ""
+    phainon "Professor Anaxa..."
 
 # game/script.rpy:1043
 translate english chapter_03_54e65013:
 
     # anaxa_no "白厄，你怎么来了？"
-    anaxa_no ""
+    anaxa_no "Phainon, why are you here?"
 
 # game/script.rpy:1045
 translate english chapter_03_9b976b35:
 
     # phainon "咦，那刻夏……老师？"
-    phainon ""
+    phainon "Eh, Ana... Professor?"
 
 # game/script.rpy:1047
 translate english chapter_03_4a5a13c4:
 
     # phainon "不对，你是……"
-    phainon ""
+    phainon "No, you are..."
 
 # game/script.rpy:1048
 translate english chapter_03_fd50a6b5:
 
     # narrator "来人略显机械性的动作让他很快反应过来，这不是那刻夏，而是他的机巧造物。"
-    narrator ""
+    narrator "The slightly mechanical movements of the newcomer made Phainon quickly realize that this wasn't Anaxa, but an ingenium imitating his likeness to the utmost detail."
 
 # game/script.rpy:1049
 translate english chapter_03_810d2c67_1:
 
     # phainon "……"
-    phainon ""
+    phainon "..."
 
 # game/script.rpy:1050
 translate english chapter_03_016a667f:
 
     # phainon "……我好想见你，那刻夏老师。"
-    phainon ""
+    phainon "...I miss you so much, Professor Anaxa. "
 
 # game/script.rpy:1052
 translate english chapter_03_fd31ea69:
 
     # anaxa_machine "阿那克萨戈拉斯教授不在这里。"
-    anaxa_machine ""
+    anaxa_machine "Anaxagoras is not here."
 
 # game/script.rpy:1053
 translate english chapter_03_785ba822:
 
     # phainon "我知道。"
-    phainon ""
+    phainon "I know."
 
 # game/script.rpy:1054
 translate english chapter_03_8b8e2411:
 
     # anaxa_machine "但若你有什么烦恼，也可以向我诉说。"
-    anaxa_machine ""
+    anaxa_machine "If you have no one to talk to... Fine. You can sit and converse."
 
 # game/script.rpy:1055
 translate english chapter_03_810d2c67_2:
 
     # phainon "……"
-    phainon ""
+    phainon "..."
 
 # game/script.rpy:1057
 translate english chapter_03_f57dafd7:
 
     # narrator "地面上散落着一些文件和信件。白厄弯腰捡起，试图把它们整理好。"
-    narrator ""
+    narrator "Some documents and letters lied scattered on the floor. Phainon bended down to pick them up, attempting to tidy the place."
 
 # game/script.rpy:1058
 translate english chapter_03_ef17e66a:
 
     # anaxa_machine "不仔细看看么？你似乎很好奇。"
-    anaxa_machine ""
+    anaxa_machine "Aren't you going to take a closer look? You seem curious."
 
 # game/script.rpy:1059
 translate english chapter_03_3ebe3982:
 
     # phainon "……这是那刻夏老师的私人物品，我不能擅自翻阅。"
-    phainon ""
+    phainon "These are Professor Anaxa's personal belongings. I can't just look through them."
 
 # game/script.rpy:1060
 translate english chapter_03_765aceb5:
 
     # anaxa_machine "他既然放在这里，想必没打算遮掩。更何况，这里面有本应寄给你的信件。"
-    anaxa_machine ""
+    anaxa_machine "Since he left them here, he probably didn't intend to hide them. Besides, among these are letters that should have been sent to you."
 
 # game/script.rpy:1061
 translate english chapter_03_a1d2bd2b:
 
     # phainon "我的……？"
-    phainon ""
+    phainon "To me...?"
 
 # game/script.rpy:1062
 translate english chapter_03_36de3376:
 
     # anaxa_machine "嗯，你的。打开看看吧？"
-    anaxa_machine ""
+    anaxa_machine "Yes, to you. Would you like to see them?"
 
 # game/script.rpy:1063
 translate english chapter_03_ed2743a7:
 
     # narrator "他把那些纸张整理好，是几封信和一份实验日志。"
-    narrator ""
+    narrator "He tidied up the papers. Amongst them were several letters and an experiment log."
 
 # game/script.rpy:1064
 translate english chapter_03_e6ae1a54:
 
     # phainon "你……你不要这样盯着我，这样很不自在。"
-    phainon ""
+    phainon "Please... Stop staring at me like that. It makes me uncomfortable."
 
 # game/script.rpy:1065
 translate english chapter_03_f86bc525:
 
     # anaxa_machine "不用在意我，我只是个机械装置。"
-    anaxa_machine ""
+    anaxa_machine "Don't mind me. I am just an ingenium."
 
 # game/script.rpy:1070
 translate english chapter_03_c0185d3f:
 
     # anaxa_letter "致白厄："
-    anaxa_letter ""
+    anaxa_letter "To Phainon:"
 
 # game/script.rpy:1071
 translate english chapter_03_d4c391a8:
 
     # anaxa_letter "也正如炼金术所揭示的那样，空白意味着无限可塑性。"
-    anaxa_letter ""
+    anaxa_letter "As alchemy teaches, a blank slate hold infinite potential."
 
 # game/script.rpy:1072
 translate english chapter_03_3151fa12:
 
     # anaxa_letter "——阿那克萨戈拉斯"
-    anaxa_letter ""
+    anaxa_letter "-Anaxagoras"
 
 # game/script.rpy:1074
 translate english chapter_03_5b9abeea:
 
     # phainon_letter "那刻夏老师，好久不见。"
-    phainon_letter ""
+    phainon_letter "Professor Anaxa, long time no see."
 
 # game/script.rpy:1075
 translate english chapter_03_cba01fa3:
 
     # phainon_letter "虽然一提笔就有很多想说的事，不过信件篇幅有限，还是长话短说。"
-    phainon_letter ""
+    phainon_letter "Although I have many things I want to say as soon as I pick up the pen, I'll keep it brief."
 
 # game/script.rpy:1076
 translate english chapter_03_c8841d40:
 
     # phainon_letter "我看到了您先前刊登在报的发言。"
-    phainon_letter ""
+    phainon_letter "I saw your statement previously published in the newspaper."
 
 # game/script.rpy:1077
 translate english chapter_03_1d96838c:
@@ -2493,37 +2493,37 @@ translate english chapter_03_73ac21ab:
 translate english chapter_03_6d11e075:
 
     # phainon_letter "有趣的论点，但不得不说，根据我近期的观察，似乎在翁法罗斯掀起了不小的风浪。"
-    phainon_letter ""
+    phainon_letter "An interesting argument, but I have to say, it seemes to have stirred up quite a storm in Amphoreus."
 
 # game/script.rpy:1080
 translate english chapter_03_8b915a97:
 
     # phainon_letter "我试图向旁人解释您的观点，但似乎用处不大……抱歉。"
-    phainon_letter ""
+    phainon_letter "I tried to explain your views to others, but it didn't seem to help much... I'm sorry."
 
 # game/script.rpy:1081
 translate english chapter_03_1ae5e53c:
 
     # phainon_letter "不知您近来可好？如果需要避难，欢迎来我的住处。"
-    phainon_letter ""
+    phainon_letter "How have you been doing lately? If you ever need to find yourself a shelter, you are more than welcome to stay over at my place."
 
 # game/script.rpy:1082
 translate english chapter_03_4ad0fc08:
 
     # phainon_letter "虽然……房间不大。期待您的回信。"
-    phainon_letter ""
+    phainon_letter "It's.... not a big room, but it should suffice. Eagerly awaiting your reply,"
 
 # game/script.rpy:1083
 translate english chapter_03_4229bfa7:
 
     # phainon_letter "——你的学生，白厄。"
-    phainon_letter ""
+    phainon_letter "-Your student, Phainon"
 
 # game/script.rpy:1085
 translate english chapter_03_39fb8429:
 
     # anaxa_letter_notsent "致白厄："
-    anaxa_letter_notsent ""
+    anaxa_letter_notsent "To Phainon,"
 
 # game/script.rpy:1086
 translate english chapter_03_2c43cce5:
