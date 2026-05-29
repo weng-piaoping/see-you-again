@@ -4215,25 +4215,25 @@ translate english chapter_02_dfca9507:
 translate english chapter_02_510db035:
 
     # anaxa "白……厄？"
-    anaxa ""
+    anaxa "Phai...non?"
 
 # game/script.rpy:1570
 translate english chapter_02_f99bcaa7:
 
     # phainon "那刻夏老师！"
-    phainon ""
+    phainon "Professor Anaxa!"
 
 # game/script.rpy:1572
 translate english chapter_02_db65a52a:
 
     # anaxa "你怎么现在……会在这里？"
-    anaxa ""
+    anaxa "Why are you... Here?"
 
 # game/script.rpy:1573
 translate english chapter_02_c0a4b443:
 
     # anaxa "这里很危险。"
-    anaxa ""
+    anaxa "It's dangerous here."
 
 # game/script.rpy:1574
 translate english chapter_02_4f1adc0c:
@@ -4269,7 +4269,7 @@ translate english chapter_02_44cb9ba4:
 translate english chapter_02_7b3a356b:
 
     # phainon "不行，我不能……"
-    phainon ""
+    phainon "No, I can't..."
 
 # game/script.rpy:1580
 translate english chapter_02_9db8b9e3:
