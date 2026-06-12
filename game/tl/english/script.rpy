@@ -1599,7 +1599,7 @@ translate english chapter_01_after_78b36906:
 translate english chapter_01_after_08177bf5:
 
     # anaxa "时间、空间，一切有形与无形，都可以视为可转换之物。"
-    anaxa "Time, space, everything tangible and intangible, are all connected by origin and are made of the same essence."
+    anaxa "Space, time, everything tangible and intangible, are all connected by origin and are made of the same essence."
 
 # game/script.rpy:840
 translate english chapter_01_after_5c8a749a:
@@ -1623,7 +1623,7 @@ translate english chapter_01_after_c64a10b5:
 translate english chapter_01_after_c2fd43d8:
 
     # anaxa "只是，现实里不具备这种实验条件。"
-    anaxa "However, the conditions required to do so doesn't exist in reality."
+    anaxa "However, the conditions required to do so don't exist in reality."
 
 # game/script.rpy:844
 translate english chapter_01_after_4246db9b:
@@ -2361,7 +2361,7 @@ translate english chapter_03_810d2c67_1:
 translate english chapter_03_016a667f:
 
     # phainon "……我好想见你，那刻夏老师。"
-    phainon "...I want to see you so much, Professor Anaxa. "
+    phainon "...I miss you so much, Professor Anaxa. "
 
 # game/script.rpy:1052
 translate english chapter_03_fd31ea69:
@@ -3573,631 +3573,631 @@ translate english chapter_03_after_2be1d5b3:
 translate english chapter_03_after_6ef8fa54:
 
     # narrator "超脱于时间与空间，不再以物理方式存在，他依然听得到这道声音——"
-    narrator ""
+    narrator "Having transcended space and time, his body ceased to exist in the physical realm. He could still hear this voice... "
 
 # game/script.rpy:1313
 translate english chapter_03_after_a2e111ad:
 
     # narrator "原初的生命，在黑潮中死去。新生的灵魂，于黑潮中孕育。\n唯有纯粹的灵魂，能够跨越死亡的距离。"
-    narrator ""
+    narrator "Just as the promordial life would perish in the Black Tide, The Black Tide would once more begets new lifeforms. \nOnly the purest souls could surpass the notion of death itself."
 
 # game/script.rpy:1314
 translate english chapter_03_after_aef0495f:
 
     # narrator "成为神明，抛弃曾经的名字，抛弃凡俗的肉身，才能被镌刻为真正的永恒。"
-    narrator ""
+    narrator "Only by becoming a god, abandoning your former name and your mortal flesh, could one be etched into eternity."
 
 # game/script.rpy:1318
 translate english chapter_03_after_4f46f469:
 
     # narrator "成为神明"
-    narrator ""
+    narrator "Become a god"
 
 # game/script.rpy:1319
 translate english chapter_03_after_8b0a7816:
 
     # phainon "……我拒绝。"
-    phainon ""
+    phainon "...I refuse."
 
 # game/script.rpy:1320
 translate english chapter_03_after_4f46f469_1:
 
     # narrator "成为神明"
-    narrator ""
+    narrator "Become a god"
 
 # game/script.rpy:1321
 translate english chapter_03_after_496d4bf8:
 
     # phainon "我拒绝。"
-    phainon ""
+    phainon "I refuse."
 
 # game/script.rpy:1322
 translate english chapter_03_after_0b7f3078:
 
     # narrator "成为神明。"
-    narrator ""
+    narrator "Become a god."
 
 # game/script.rpy:1326
 translate english chapter_03_after_5edba3d4:
 
     # anaxa "谁在替他做决定？"
-    anaxa ""
+    anaxa "Who's making this choice for him?"
 
 # game/script.rpy:1330
 translate english chapter_03_after_ef6e28bc:
 
     # anaxa "抛却陈旧伪神的概念，由我来重新定义何为神明。"
-    anaxa ""
+    anaxa "Discard the outdated concepts of false gods. Let me redefine the definition of godhood."
 
 # game/script.rpy:1331
 translate english chapter_03_after_5f3f253d:
 
     # anaxa "白厄——现在，我们以相同的方式存在着，便能互相感知。"
-    anaxa ""
+    anaxa "Phainon, now that we have both transcended physicality, we can perceive eachother. "
 
 # game/script.rpy:1332
 translate english chapter_03_after_f99bcaa7:
 
     # phainon "那刻夏老师！"
-    phainon ""
+    phainon "Professor Anaxa!"
 
 # game/script.rpy:1333
 translate english chapter_03_after_ff9d295b:
 
     # anaxa "如此一来，我的实验计划只余最后阶段。"
-    anaxa ""
+    anaxa "Thus, we've arrived at the final phase of my great experiment."
 
 # game/script.rpy:1334
 translate english chapter_03_after_faf96210:
 
     # anaxa "以十二火种与完整的贤者之石为基底，我将熔炼黑潮，解放被束缚的灵魂。"
-    anaxa ""
+    anaxa "Using the twelve coreflames and the complete philosopher's stone as catalysts, I shall liberate all the souls trapped within the black tide by transmutating it."
 
 # game/script.rpy:1336
 translate english chapter_03_after_0d4aac70:
 
     # phainon "请开始吧。"
-    phainon ""
+    phainon "Then let us begin."
 
 # game/script.rpy:1348
 translate english chapter_03_after_e6662835:
 
     # anaxa "世界诞生之初为一团混沌。灵魂的种子栖息其中，逐渐生根发芽。"
-    anaxa ""
+    anaxa "In the beginning of everything, there was only chaos. The seeds of souls dwelled within, gradually taking root and sprouting."
 
 # game/script.rpy:1349
 translate english chapter_03_after_d871317c:
 
     # anaxa "黑潮不过为笼罩世界的表象，现在，由我们来引领世界走向真实。"
-    anaxa ""
+    anaxa "The black tide is but a veil covering the world. Now let us lead the world towards truth."
 
 # game/script.rpy:1354
 translate english chapter_03_after_065e4fde:
 
     # anaxa "生息破土，世界塑造——"
-    anaxa ""
+    anaxa "Sprouting life sculpts Earth,"
 
 # game/script.rpy:1358
 translate english chapter_03_after_80dd2be4:
 
     # phainon "黎明创世，地辟天开！"
-    phainon ""
+    phainon "Let there be light!"
 
 # game/script.rpy:1361
 translate english chapter_03_after_5733864d:
 
     # anaxa "我，阿那克萨戈拉斯在此断言——"
-    anaxa ""
+    anaxa "I, Anaxagoras, proclaim it with absolute certainty-"
 
 # game/script.rpy:1362
 translate english chapter_03_after_5a504cc7:
 
     # anaxa "唯我们自己，才是此世的神明！"
-    anaxa ""
+    anaxa "We alone, are the true gods of this world!"
 
 # game/script.rpy:1375
 translate english chapter_02_28b156aa:
 
     # phainon "呃……"
-    phainon ""
+    phainon "Ugh..."
 
 # game/script.rpy:1376
 translate english chapter_02_02d09093:
 
     # narrator "灵魂与身体一起在燃烧，他被时间的裂隙不断撕扯。"
-    narrator ""
+    narrator "His body and soul burn together as he was relentlessly torn apart by the rifts of spacetime."
 
 # game/script.rpy:1377
 translate english chapter_02_f7c1be7c:
 
     # narrator "违逆时间带来的灼烧感，令他的意识几近崩溃。"
-    narrator ""
+    narrator "The burning sensation from defying the fundamental laws of spacetime nearly shattered his consciousness."
 
 # game/script.rpy:1401
 translate english chapter_02_1815d250:
 
     # memory_text "{alpha=0.7}PE{w=0.5}OPLE{w=0.5}? {color=#FF0000}GOD{w=0.5}{/color}? NULL{w=0.5}?{/alpha} "
-    memory_text ""
+    memory_text "{alpha=0.7}PE{w=0.5}OPLE{w=0.5}? {color=#FF0000}GOD{w=0.5}{/color}? NULL{w=0.5}?{/alpha}"
 
 # game/script.rpy:1421
 translate english chapter_02_a091c73c:
 
     # phainon "头……好痛。"
-    phainon ""
+    phainon "My head... hurts so much."
 
 # game/script.rpy:1422
 translate english chapter_02_0b7f3078:
 
     # narrator "成为神明。"
-    narrator ""
+    narrator "Become a god."
 
 # game/script.rpy:1423
 translate english chapter_02_0b7f3078_1:
 
     # narrator "成为神明。"
-    narrator ""
+    narrator "Become a god."
 
 # game/script.rpy:1424
 translate english chapter_02_0b7f3078_2:
 
     # narrator "成为神明。"
-    narrator ""
+    narrator "Become a god."
 
 # game/script.rpy:1425
 translate english chapter_02_51ed5fd2:
 
     # phainon "不……对……"
-    phainon ""
+    phainon "No... that's not right..."
 
 # game/script.rpy:1426
 translate english chapter_02_a29576d9:
 
     # narrator "时间在扭曲。空间在扭曲。"
-    narrator ""
+    narrator "Space is distorting. Time is distorting."
 
 # game/script.rpy:1427
 translate english chapter_02_299ac3f3:
 
     # narrator "它们被压缩折叠，以几近令人窒息的方式。"
-    narrator ""
+    narrator "Spacetime compressed and folded, driving him to near suffocation."
 
 # game/script.rpy:1428
 translate english chapter_02_92b3b083:
 
     # narrator "模糊不清的记忆从眼前闪过。"
-    narrator ""
+    narrator "Blurry traces of memories flashed before his eyes."
 
 # game/script.rpy:1431
 translate english chapter_02_8cf1d7fe:
 
     # narrator "直到他终于看见，令人怀念的地方。"
-    narrator ""
+    narrator "Everything stilled when he finally saw a place that filled him with nostalgia."
 
 # game/script.rpy:1443
 translate english chapter_02_c40f2a86:
 
     # anaxa_in_memory "白厄？"
-    anaxa_in_memory ""
+    anaxa_in_memory "Phainon?"
 
 # game/script.rpy:1444
 translate english chapter_02_298d421e:
 
     # anaxa_in_memory "哼，欢迎来到神悟树庭的入学仪式。"
-    anaxa_in_memory ""
+    anaxa_in_memory "Hmph, welcome to the introduction ceremony to the Grove of Epiphany."
 
 # game/script.rpy:1445
 translate english chapter_02_f047317c:
 
     # anaxa_in_memory "就像我们先前约定的那样——恭喜你，现在正式成为我的学生了。"
-    anaxa_in_memory ""
+    anaxa_in_memory "As we've promised before- congratulations, you are now officially my student."
 
 # game/script.rpy:1448
 translate english chapter_02_2c8e738a:
 
     # phainon_in_memory "好久不见，那刻夏老师。"
-    phainon_in_memory ""
+    phainon_in_memory "Long time no see, Professor Anaxa."
 
 # game/script.rpy:1449
 translate english chapter_02_2d0e4395:
 
     # anaxa_in_memory "是阿那克萨戈拉斯。"
-    anaxa_in_memory ""
+    anaxa_in_memory "It's Anaxagoras."
 
 # game/script.rpy:1450
 translate english chapter_02_88ef995c:
 
     # anaxa_in_memory "如果想找我请教问题，记得称呼这个名字。"
-    anaxa_in_memory ""
+    anaxa_in_memory "If you want to speak with me, remember to address me by my proper name."
 
 # game/script.rpy:1451
 translate english chapter_02_9f604c11:
 
     # phainon_in_memory "明白。"
-    phainon_in_memory ""
+    phainon_in_memory "Understood."
 
 # game/script.rpy:1462
 translate english chapter_02_671adbd5:
 
     # anaxa_in_memory "翻开这本书第七百二十页——"
-    anaxa_in_memory ""
+    anaxa_in_memory "Turn to page 720."
 
 # game/script.rpy:1464
 translate english chapter_02_e6541f1f:
 
     # phainon_in_memory "这上面的图片是……从前的星空？"
-    phainon_in_memory ""
+    phainon_in_memory "The picture here... Is it the starry sky from the past?"
 
 # game/script.rpy:1465
 translate english chapter_02_b1d3a923:
 
     # anaxa_in_memory "曾经，神悟树庭的窗外还看得到星空。"
-    anaxa_in_memory ""
+    anaxa_in_memory "Once upon a time, we could still gaze upon the starry sky from the window of the Grove."
 
 # game/script.rpy:1466
 translate english chapter_02_1aeea14b:
 
     # anaxa_in_memory "那时，从这里所看到的星星，都是它们若干年前的影像。"
-    anaxa_in_memory ""
+    anaxa_in_memory "The light from stars that we saw here was emitted by them thousands of years ago. "
 
 # game/script.rpy:1467
 translate english chapter_02_7f19ef62:
 
     # anaxa_in_memory "反之也同样，现在的翁法罗斯，如果正在被数万光年以外的星球观测——"
-    anaxa_in_memory ""
+    anaxa_in_memory "Likewise, if Amphoreus was to be observed by a planet tens of thousands of light-years away..."
 
 # game/script.rpy:1468
 translate english chapter_02_82b8e0c1:
 
     # anaxa_in_memory "他们所看到的，是尚在新生的星球。"
-    anaxa_in_memory ""
+    anaxa_in_memory "What they would see would be a planet still in its infancy."
 
 # game/script.rpy:1469
 translate english chapter_02_7c55c929:
 
     # phainon_in_memory "而事实上……我们的家园却在濒毁的边缘。"
-    phainon_in_memory ""
+    phainon_in_memory "But in reality, our homeland is on the verge of destruction."
 
 # game/script.rpy:1471
 translate english chapter_02_6dd32e3d:
 
     # phainon_in_memory "书上也说，神悟树庭能看到星空已经是很多年前的事了。您曾经看到过这样的星空吗？"
-    phainon_in_memory "In the textbooks,"
+    phainon_in_memory "The textbooks also say that it's been many years since the starry sky was last visible. Have you ever seen it for yourself? "
 
 # game/script.rpy:1472
 translate english chapter_02_b26f28f3:
 
     # anaxa_in_memory "我来到这里后，神悟树庭的永夜天幕里早已空无一物。"
-    anaxa_in_memory ""
+    anaxa_in_memory "By the time I arrived here, the eternal night sky above the Grove had long been emptied."
 
 # game/script.rpy:1473
 translate english chapter_02_6250e10c:
 
     # anaxa_in_memory "自从黑潮接连笼罩翁法罗斯，遥远的星空便不再显现，混沌的天幕取而代之。"
-    anaxa_in_memory ""
+    anaxa_in_memory "Ever since the black tide engulfed Amphoreus, the distant stars ceased to appear on the sky, replaced by primodial chaos."
 
 # game/script.rpy:1474
 translate english chapter_02_8a0f3805:
 
     # phainon_in_memory "果然是只存在于书中的景象吗……"
-    phainon_in_memory ""
+    phainon_in_memory "So it really is a scene that can only exists in books..."
 
 # game/script.rpy:1475
 translate english chapter_02_488db756:
 
     # anaxa_in_memory "倘若终有一日，黑潮吞没我们的土地，这颗星球便也消弭于偌大的宇宙中。"
-    anaxa_in_memory ""
+    anaxa_in_memory "Once the black tide swallows this land, this planet will also vanish from the vast expanse of the universe."
 
 # game/script.rpy:1476
 translate english chapter_02_f2816ae6:
 
     # anaxa_in_memory "但在数万光年以外，却还有人能看到翁法罗斯曾经存在过的痕迹。"
-    anaxa_in_memory ""
+    anaxa_in_memory "However, thousands of lightyears away, there may still be someone who could see that Amphoreus once existed."
 
 # game/script.rpy:1477
 translate english chapter_02_f495fdf3:
 
     # anaxa_in_memory "我们存在过的历史，将在那遥远的星空被观测与证明。"
-    anaxa_in_memory ""
+    anaxa_in_memory "The traces of our existence will be observed and proved across that distant starry sky."
 
 # game/script.rpy:1478
 translate english chapter_02_8ee02d17:
 
     # phainon_in_memory "等到我们集齐十二枚火种，就能驱散混沌，再次见到真实的星空。"
-    phainon_in_memory ""
+    phainon_in_memory "Once we gather the twelve coreflames, we will be able to dispel the chaos and see the real starry sky once more. "
 
 # game/script.rpy:1480
 translate english chapter_02_29447c35:
 
     # phainon_in_memory "到那时，透过这扇窗，我们一定可以看到真实星空的景色。"
-    phainon_in_memory ""
+    phainon_in_memory "By then, looking through this window, we will surely be able to gaze upon the real starry sky."
 
 # game/script.rpy:1481
 translate english chapter_02_77405bc7:
 
     # anaxa_in_memory "白厄，我从不相信火种能够引领我们走向新世界。"
-    anaxa_in_memory ""
+    anaxa_in_memory "Phainon, I have never believed that the coreflames could lead us to a brand new world."
 
 # game/script.rpy:1482
 translate english chapter_02_81524e5d:
 
     # anaxa_in_memory "你若是如此坚信，等到需要理性火种的那一天，就将它拿去吧。"
-    anaxa_in_memory ""
+    anaxa_in_memory "If you are so determined, when the day comes that you'll need the coreflame of reason, go ahead and take it."
 
 # game/script.rpy:1483
 translate english chapter_02_e1199761:
 
     # anaxa_in_memory "它就在启蒙王座的顶端。倘若黑潮降临，那里能够庇佑它暂时免于侵蚀。"
-    anaxa_in_memory ""
+    anaxa_in_memory "It lies at the top of the Luminary Throne. Should the black tide descend upon the Grove, that place can provide shelter temporarily.  "
 
 # game/script.rpy:1484
 translate english chapter_02_202bbebe:
 
     # phainon_in_memory "……那刻夏老师，你连这种准备都做好了吗？"
-    phainon_in_memory ""
+    phainon_in_memory "...Professor Anaxa, you have come prepared this far ahead?"
 
 # game/script.rpy:1485
 translate english chapter_02_27cdbae3:
 
     # anaxa_in_memory "为不确定性尽早做打算，本就是我的风格。"
-    anaxa_in_memory ""
+    anaxa_in_memory "Planning for the unknown has always been my style."
 
 # game/script.rpy:1492
 translate english chapter_02_b498159b:
 
     # phainon_in_memory "那刻夏老师，我来了。"
-    phainon_in_memory ""
+    phainon_in_memory "Professor Anaxa, I'm here."
 
 # game/script.rpy:1494
 translate english chapter_02_7622d07a:
 
     # anaxa_in_memory "这么早就来了？我们约定的时间是半小时后。"
-    anaxa_in_memory ""
+    anaxa_in_memory "You're here so early? We've agreed to meet up half an hour from now."
 
 # game/script.rpy:1495
 translate english chapter_02_5ae9b7b7:
 
     # phainon_in_memory "哈哈，闲着也是闲着，只是想着万一有什么需要我帮忙的……"
-    phainon_in_memory ""
+    phainon_in_memory "Haha, I had nothing better to do anyway. I just thought maybe there's something I could help with..."
 
 # game/script.rpy:1496
 translate english chapter_02_f0541c61:
 
     # anaxa_in_memory "不要勉强自己一直保持笑容。"
-    anaxa_in_memory ""
+    anaxa_in_memory "Don't force yourself to keep smiling."
 
 # game/script.rpy:1497
 translate english chapter_02_0fdd2ed1:
 
     # phainon_in_memory "……"
-    phainon_in_memory ""
+    phainon_in_memory "..."
 
 # game/script.rpy:1498
 translate english chapter_02_7293c454:
 
     # anaxa_in_memory "我听说了哀丽秘榭之前发生的事情。"
-    anaxa_in_memory ""
+    anaxa_in_memory "I heard what happened to Aedes Elysia."
 
 # game/script.rpy:1499
 translate english chapter_02_4244fd9a:
 
     # anaxa_in_memory "……节哀。"
-    anaxa_in_memory ""
+    anaxa_in_memory "...My condolences."
 
 # game/script.rpy:1500
 translate english chapter_02_6105abd8:
 
     # phainon_in_memory "我……没事，那刻夏老师。能来这里和您说说话就够了。"
-    phainon_in_memory ""
+    phainon_in_memory "I'm... Fine, Professor Anaxa. Just being here and talking with you is enough."
 
 # game/script.rpy:1502
 translate english chapter_02_cd6ae93f:
 
     # anaxa_in_memory "适当的倾诉是有必要的。"
-    anaxa_in_memory ""
+    anaxa_in_memory "It is important to occasionally vent so you don't bottle everything up."
 
 # game/script.rpy:1503
 translate english chapter_02_0d01dd23:
 
     # phainon_in_memory "……谢谢您。"
-    phainon_in_memory ""
+    phainon_in_memory "...Thank you."
 
 # game/script.rpy:1504
 translate english chapter_02_fae06e76:
 
     # anaxa_in_memory "在我很小的时候，家人就被黑潮夺去性命，只有我活了下来。"
-    anaxa_in_memory ""
+    anaxa_in_memory "When I was just a kid, the black tide took away my entire family. Only I survived."
 
 # game/script.rpy:1505
 translate english chapter_02_fa16da44:
 
     # anaxa_in_memory "「如果那一天活下来的是他们就好了。」会有这样的想法也不奇怪。"
-    anaxa_in_memory ""
+    anaxa_in_memory "'If only they had survived instead' -it's not strange to have such thoughts."
 
 # game/script.rpy:1506
 translate english chapter_02_3de14bc9:
 
     # phainon_in_memory "原来老师也和我一样，我还是第一次听你讲过去的事。"
-    phainon_in_memory ""
+    phainon_in_memory "So you're just like me, Professor. This is the first time I've heard you talk about the past."
 
 # game/script.rpy:1507
 translate english chapter_02_2b044828:
 
     # anaxa_in_memory "生者总要背负着死者的愿望前进。"
-    anaxa_in_memory ""
+    anaxa_in_memory "The living must carry forward the will of the dead. "
 
 # game/script.rpy:1508
 translate english chapter_02_807788a0:
 
     # anaxa_in_memory "我也曾经试图寻找过令黑潮中的死者复生的方法。"
-    anaxa_in_memory ""
+    anaxa_in_memory "Once, I also tried to find a way to revive someone who perished from the black tide."
 
 # game/script.rpy:1509
 translate english chapter_02_589108ea:
 
     # anaxa_in_memory "只是，炼金术虽能进行物质转换，却缺少强大的催化剂。"
-    anaxa_in_memory ""
+    anaxa_in_memory "However, while alchemy can perform material transmutation, my attempt lacked a powerful catalyst."
 
 # game/script.rpy:1510
 translate english chapter_02_2085f057:
 
     # anaxa_in_memory "无论进行多么缜密的运算，也无法够到那道界限。"
-    anaxa_in_memory ""
+    anaxa_in_memory "No matter how meticulous my calculations were, I was never able to reach that boundary."
 
 # game/script.rpy:1511
 translate english chapter_02_1b9e3b50:
 
     # phainon_in_memory "……希望我们都不要再经历那样的离别。"
-    phainon_in_memory ""
+    phainon_in_memory "...I hope that neither of us has to experience that kind of parting again."
 
 # game/script.rpy:1512
 translate english chapter_02_5b051300:
 
     # anaxa_in_memory "我比你年长，如你所见，身体也不怎么样。我不擅长武力，如果黑潮来临……"
-    anaxa_in_memory ""
+    anaxa_in_memory "I am older than you. As you can see, I'm not in great shape. I'm not skilled in combat, so if the black tide reaches here..."
 
 # game/script.rpy:1513
 translate english chapter_02_b5c3b8bc:
 
     # phainon_in_memory "不要再说了，那刻夏老师。"
-    phainon_in_memory ""
+    phainon_in_memory "Don't say that, Professor Anaxa."
 
 # game/script.rpy:1514
 translate english chapter_02_03d0ef27:
 
     # anaxa_in_memory "离别是我们一生中必须面对的课题，更何况身在这个年代。"
-    anaxa_in_memory ""
+    anaxa_in_memory "Parting is a subject we all must face in life, especially in this era."
 
 # game/script.rpy:1515
 translate english chapter_02_9e46e793:
 
     # phainon_in_memory "我不想再和你分开。"
-    phainon_in_memory ""
+    phainon_in_memory "I don't want to part from you ever again."
 
 # game/script.rpy:1516
 translate english chapter_02_22b3b3e1:
 
     # anaxa_in_memory "总有一天，离别会如期而至，或早或晚。"
-    anaxa_in_memory ""
+    anaxa_in_memory "Someday, we will always have to say goodbye, sooner or later."
 
 # game/script.rpy:1526
 translate english chapter_02_997a0f0f:
 
     # anaxa_in_memory "那么，恭喜毕业，白厄。"
-    anaxa_in_memory ""
+    anaxa_in_memory "Well then, congratulations on your graduation, Phainon."
 
 # game/script.rpy:1528
 translate english chapter_02_5b1bacd8:
 
     # phainon_in_memory "仅此而已吗，那刻夏老师？"
-    phainon_in_memory ""
+    phainon_in_memory "Is that all, Professor Anaxa?"
 
 # game/script.rpy:1529
 translate english chapter_02_b2f1a5e9:
 
     # phainon_in_memory "一般来说，老师对学生，总有些毕业寄语吧。"
-    phainon_in_memory ""
+    phainon_in_memory "Usually, a teacher will gift their students some parting words upon graduation, right?"
 
 # game/script.rpy:1530
 translate english chapter_02_a82cf632:
 
     # anaxa_in_memory "哼，那么，你有什么愿望？"
-    anaxa_in_memory ""
+    anaxa_in_memory "Hmph, then, what is your wish?"
 
 # game/script.rpy:1532
 translate english chapter_02_89e89b20:
 
     # phainon_in_memory "现在，我还想去寻求黑潮的解法。"
-    phainon_in_memory ""
+    phainon_in_memory "Right now, I'm still seeking a solution to the impending black tide."
 
 # game/script.rpy:1533
 translate english chapter_02_109e02ce:
 
     # phainon_in_memory "我也想去拯救那些被黑潮所困的人们，至少不要让家乡的悲剧重演。"
-    phainon_in_memory ""
+    phainon_in_memory "I also want to save those trapped in the black tide, so the tragedy of my hometown will not repeat."
 
 # game/script.rpy:1535
 translate english chapter_02_2690fbc7:
 
     # anaxa_in_memory "看来你还是想成为英雄。"
-    anaxa_in_memory ""
+    anaxa_in_memory "It seems that you still want to become a hero."
 
 # game/script.rpy:1536
 translate english chapter_02_8987b048:
 
     # phainon_in_memory "是啊，英雄。"
-    phainon_in_memory ""
+    phainon_in_memory "Indeed, a hero."
 
 # game/script.rpy:1537
 translate english chapter_02_81c3e3ad:
 
     # phainon_in_memory "「无聊至极的答案」——对吗？"
-    phainon_in_memory ""
+    phainon_in_memory "'An utterly boring answer,' right?"
 
 # game/script.rpy:1538
 translate english chapter_02_e18e5a8b:
 
     # anaxa_in_memory "空白意味着无限可能，而英雄也是其中的一种。"
-    anaxa_in_memory ""
+    anaxa_in_memory "a blank slate holds infinite potential. Becoming a hero is one of them."
 
 # game/script.rpy:1539
 translate english chapter_02_a61a7af2:
 
     # anaxa_in_memory "坚持你的理想，如果时至今日它仍是你的理想。"
-    anaxa_in_memory ""
+    anaxa_in_memory "Hold fast to your ideals, if they are still your ideals by then."
 
 # game/script.rpy:1540
 translate english chapter_02_9bb0e0ef:
 
     # phainon_in_memory "假设我们抗击黑潮成功，那刻夏老师，你最想做的事情是什么？"
-    phainon_in_memory ""
+    phainon_in_memory "If we succeed in fighting the black tide, what is the one thing you really want to do then, Professor Anaxa?"
 
 # game/script.rpy:1541
 translate english chapter_02_a2a2d333:
 
     # anaxa_in_memory "研究宇宙中的奥秘，拓展知识的边界。某种程度上来说，和现在的重心倒也无异。"
-    anaxa_in_memory ""
+    anaxa_in_memory "Study the mysteries of the universe, expand the boundaries of knowledge. In a sense, it wouldn't be much different from my current pursuit."
 
 # game/script.rpy:1542
 translate english chapter_02_dbfb7093:
 
     # anaxa_in_memory "你呢？"
-    anaxa_in_memory ""
+    anaxa_in_memory "What about you?"
 
 # game/script.rpy:1543
 translate english chapter_02_e5eb6724:
 
     # phainon_in_memory "我？如果做得到的话，我想成为领航员，在星海里遨游，到那时——"
-    phainon_in_memory ""
+    phainon_in_memory "Me? If I could do it, I want to become a navigator, journeying amongst the stars. And then..."
 
 # game/script.rpy:1545
 translate english chapter_02_8f25f42a:
 
     # phainon_in_memory "就可以对外如此介绍：我啊，是那刻夏老师的学生。"
-    phainon_in_memory ""
+    phainon_in_memory "I can proudly present to everyone: I am a student of Anaxa."
 
 # game/script.rpy:1546
 translate english chapter_02_31be1ccd:
 
     # anaxa_in_memory "哼，还是这么油嘴滑舌。"
-    anaxa_in_memory ""
+    anaxa_in_memory "Hmph, shut that glib-tongue of yours."
 
 # game/script.rpy:1547
 translate english chapter_02_9787db7c:
 
     # phainon_in_memory "这是真情流露。"
-    phainon_in_memory ""
+    phainon_in_memory "This is what I truely feel."
 
 # game/script.rpy:1549
 translate english chapter_02_f6f1a3df:
 
     # phainon_in_memory "我相信，有朝一日，我们一定可以看到真实的星空。"
-    phainon_in_memory ""
+    phainon_in_memory "I believe, one day, we will be able to see the real sky."
 
 # game/script.rpy:1554
 translate english chapter_02_7bcedb5a:
 
     # narrator "记忆逐渐褪色。"
-    narrator ""
+    narrator "The distant memories fade."
 
 # game/script.rpy:1555
 translate english chapter_02_0f3a3af4:
@@ -4629,13 +4629,13 @@ translate english chapter_02_39d7d1fa:
 translate english chapter_02_c4fae53b_1:
 
     # anaxa "……"
-    anaxa ""
+    anaxa "..."
 
 # game/script.rpy:1646
 translate english chapter_02_c5ae308f:
 
     # anaxa "……一直都是……令我骄傲的……学生。"
-    anaxa ""
+    anaxa "You've always been.... My most brilliant... student."
 
 # game/script.rpy:1651
 translate english chapter_02_ff510d2d:
@@ -4647,7 +4647,7 @@ translate english chapter_02_ff510d2d:
 translate english chapter_02_e1df081f:
 
     # phainon "……永别了，吾师。"
-    phainon ""
+    phainon "Farewell, my dearest professor."
 
 # game/script.rpy:1653
 translate english chapter_02_31c5df96:
@@ -4797,7 +4797,7 @@ translate english chapter_02_d0973613_1:
 translate english chapter_02_867b423b_1:
 
     # anaxa "哼，怎么会。"
-    anaxa "Hmpf, as if."
+    anaxa "Hmph, as if."
 
 # game/script.rpy:1691
 translate english chapter_02_a3b6b75a_1:
@@ -5025,7 +5025,7 @@ translate english true_end_33df0fad:
 translate english true_end_73b64f86:
 
     # anaxa "新生、发芽、成长、濒毁。"
-    anaxa ""
+    anaxa "Rebirth, sprouting, growing up, destruction"
 
 # game/script.rpy:1772
 translate english true_end_051ecbd5:
@@ -5229,7 +5229,7 @@ translate english strings:
 
     # game/script.rpy:743
     old "物质转化"
-    new ""
+    new "Material transmutation"
 
     # game/script.rpy:745
     old "元素融合"
