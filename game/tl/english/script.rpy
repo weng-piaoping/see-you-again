@@ -4545,19 +4545,19 @@ translate english chapter_02_50faf93c:
 translate english chapter_02_72709eb8:
 
     # anaxa "空白意味着无限可能，而英雄也是其中的一种。"
-    anaxa ""
+    anaxa "a blank slate holds infinite potential. Becoming a hero is one of them."
 
 # game/script.rpy:1631
 translate english chapter_02_9a42d823:
 
     # phainon "……原来你全部都记得。"
-    phainon ""
+    phainon "...So you still remember."
 
 # game/script.rpy:1632
 translate english chapter_02_b657a337:
 
     # anaxa "哼，身为你的老师，我当然记得。"
-    anaxa ""
+    anaxa "Hmph, as your teacher, of course I would."
 
 # game/script.rpy:1633
 translate english chapter_02_054f00c7:
@@ -4965,7 +4965,7 @@ translate english true_end_fd2a2694:
 translate english true_end_de522ce9:
 
     # phainon "很高兴能够与你再次相见，那刻夏老师。"
-    phainon ""
+    phainon "So happy to see you again, Professor Anaxa."
 
 # game/script.rpy:1759
 translate english true_end_8fcb7b4c:
