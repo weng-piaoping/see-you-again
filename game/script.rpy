@@ -796,11 +796,11 @@ label chapter_01_quiz:
             "再来一次":
                 jump chapter_01_quiz
             "清空答卷，重新蒙一遍":
-                if fortune_result == "凶":
+                if fortune_result == __("凶"):
                     $ quiz_score = renpy.random.choice([0,25,50])
-                elif fortune_result == "大吉":
+                elif fortune_result == __("大吉"):
                     $ quiz_score = 100
-                elif fortune_result == "中吉":
+                elif fortune_result == __("中吉"):
                     $ quiz_score = 75
                 else:
                     $ quiz_score = renpy.random.choice([0,25,50,75,100])
@@ -1007,7 +1007,7 @@ label check_item_in_house:
                 narrator "还有一个运势抽签桶，要抽取一张签条试试吗？"
                 menu:
                     "抽签":
-                        $ fortune_result = renpy.random.choice(["大吉","中吉","凶"])
+                        $ fortune_result = renpy.random.choice([__("大吉"), __("中吉"), __("凶")])
                         narrator "你抽到了..."
                         narrator "[fortune_result]！"
                         pass
