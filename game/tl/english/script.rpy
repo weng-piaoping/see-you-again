@@ -292,7 +292,7 @@ translate english prologue_ccaabb4e:
 translate english prologue_9cf3e33f:
 
     # phainon "但我不想成为神明，我是以人类的姿态诞生的。我更想以人类的姿态继续见证新世界。"
-    phainon "But I don't want to become a god. I was born as a human. I would rather continue to witness the new world as a human. "
+    phainon "But I don't want to become a god. I was born as a human. I would rather continue to witness Era Nova as a human. "
 
 # game/script.rpy:377
 translate english prologue_e9d3957c:
@@ -388,7 +388,7 @@ translate english branch_end_god_aef0495f:
 translate english branch_end_god_b645b1c7:
 
     # narrator "{rb}刻法勒{/rb}{rt}{size=18}卡厄斯兰那{/size}{/rt}是这个世界的创世神。新世界的人们将始终铭记。"
-    narrator "{rb}Kephale{/rb}{rt}{size=18}Khaslana{/size}{/rt}is the Titan of Creation. The people of the new world will always remember."
+    narrator "{rb}Kephale{/rb}{rt}{size=18}Khaslana{/size}{/rt}is the Titan of Creation. The people of Era Nova will always remember."
 
 # game/script.rpy:414
 translate english branch_end_god_e40c7a98:
@@ -3537,7 +3537,7 @@ translate english chapter_03_after_21095925:
 translate english chapter_03_after_489c699c:
 
     # phainon "我向你发誓：我会引领所有人在新世界重逢。"
-    phainon "Anaxa, I swear to you. I'll lead everyone to our reunion in the new world. "
+    phainon "Anaxa, I swear to you. I'll lead everyone to our reunion in Era Nova. "
 
 # game/script.rpy:1297
 translate english chapter_03_after_d5e8a344:
@@ -3915,7 +3915,7 @@ translate english chapter_02_29447c35:
 translate english chapter_02_77405bc7:
 
     # anaxa_in_memory "白厄，我从不相信火种能够引领我们走向新世界。"
-    anaxa_in_memory "Phainon, I have never believed that the coreflames could lead us to a brand new world."
+    anaxa_in_memory "Phainon, I have never believed that the coreflames could lead us to Era Nova."
 
 # game/script.rpy:1482
 translate english chapter_02_81524e5d:
@@ -5049,7 +5049,7 @@ translate english true_end_1788bc5a:
 translate english true_end_062ea52f:
 
     # phainon "这就是……真正的新世界。"
-    phainon "So this is... the true new world."
+    phainon "So this is... the true Era Nova."
 
 # game/script.rpy:1776
 translate english true_end_98398287:
@@ -5061,7 +5061,7 @@ translate english true_end_98398287:
 translate english true_end_d1c75357:
 
     # phainon "新世界的人们，终于可以一同守望没有黑潮的明天。"
-    phainon "The people of the new world can finally embrace a tomorrow without the threat of the black tide."
+    phainon "The people of Era Nova can finally embrace a tomorrow without the threat of the black tide."
 
 # game/script.rpy:1782
 translate english true_end_40a14a40:
