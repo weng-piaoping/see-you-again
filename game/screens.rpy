@@ -467,11 +467,11 @@ screen choice(items):
         for i in items:
             # 每个选项：水平渐变背景 + 文字按钮
             fixed:
-                xsize 450
+                xsize 700
                 ysize 70
                 
                 # 水平渐变背景层（中间实心，左右透明）
-                add Solid("#000000C0", xsize=420, ysize=55):
+                add Solid("#000000C0", xsize=670, ysize=55):
                     at gradient_h_bg("#000000C0", 60)
                     xalign 0.5
                     yalign 0.5
