@@ -516,7 +516,7 @@ label branch_end_god:
     narrator_dark_anaxa "我一直在这里。"
     pause 1.0
     hide anaxa2 normal02 with Dissolve(2.0)
-    show text "{color=#000000}Ending A\n最遥远的距离{/color}" at truecenter with dissolve
+    show text "{color=#000000}Ending A\nThe Farthest Distance{/color}" at truecenter with dissolve
     pause 2.0
     hide text with dissolve
     jump main_menu_end
@@ -565,7 +565,7 @@ label branch_end_death:
     pause 2.0
     narrator "仿佛来自谁人的拥抱。"
     show cg white with Dissolve(5.0)
-    show text "{color=#000000}Ending B\n生而为人{/color}" at truecenter with dissolve
+    show text "{color=#000000}Ending B\nTo Be Human{/color}" at truecenter with dissolve
     pause 2.0
     hide text with dissolve
     jump main_menu_end
@@ -588,7 +588,7 @@ label branch_stay:
     scene bg white with Dissolve(2.0)
     hide cg
     pause 2.0
-    show text "{color=#000000}Ending D\n与你同行的梦{/color}" at truecenter with dissolve
+    show text "{color=#000000}Ending D\nA Dream, Together With You{/color}" at truecenter with dissolve
     pause 2.0
     hide text with dissolve
     jump main_menu_end
@@ -1025,7 +1025,7 @@ label chapter_03:
     stop music fadeout 2.0
     $ current_music = ""
     pause 2.0
-    show screen big_text("#3 The End") with Dissolve(2.0)
+    show screen big_text("#3 The Finale") with Dissolve(2.0)
     pause 2.0
     hide screen big_text with dissolve
     scene bg office as darkened:
