@@ -118,7 +118,7 @@ translate english prologue_3feb805e:
 translate english prologue_7afdac9b:
 
     # narrator "成为神明。成为这苍茫大地之上唯一的神，守望因黑潮而消失的世界。\n世界于黑潮中死亡，褪去黑潮后重生。"
-    narrator "Become a god. Become the one and only god above all else, watching over the worlds that had vanished in the Black Tide.\nEverything would dissolve in the black tide and would be reborn anew once the black tide receded."
+    narrator "Become a god. Become the one and only god above all else, watching over the worlds that had vanished in the black tide.\nEverything would dissolve in the black tide and would be reborn anew once the black tide receded."
 
 # game/script.rpy:339
 translate english prologue_9d437cda:
@@ -172,7 +172,7 @@ translate english prologue_99fe16eb:
 translate english prologue_41b845d1:
 
     # phainon "所谓再创世，如果只是让这个世界再次苏醒，而因黑潮死去的生命却永远消失……"
-    phainon "If the so called Era Nova means to reawaken this world, but those swallowed by the Black Tide would forever disappear..."
+    phainon "If the so called Era Nova means to reawaken this world, but those swallowed by the black tide would forever disappear..."
 
 # game/script.rpy:351
 translate english prologue_2f2b0b96:
@@ -376,7 +376,7 @@ translate english branch_start_f2e47ca3:
 translate english branch_end_god_a2e111ad:
 
     # narrator "原初的生命，在黑潮中死去。新生的灵魂，于黑潮中孕育。\n唯有纯粹的灵魂，能够跨越死亡的距离。"
-    narrator "Just as the promordial life would perish in the Black Tide, The Black Tide would once more begets new lifeforms.\nOnly the purest souls could surpass the notion of death itself."
+    narrator "Just as the promordial life would perish in the black tide, The black tide would once more begets new lifeforms.\nOnly the purest souls could surpass the notion of death itself."
 
 # game/script.rpy:412
 translate english branch_end_god_aef0495f:
@@ -442,7 +442,7 @@ translate english branch_end_god_4f46f469_3:
 translate english branch_end_god_18cfbe55:
 
     # narrator "成为{rb}神明{/rb}{rt}{size=18}{color=#FFFFFF}黑潮{/color}{/size}{/rt}"
-    narrator "Become{rb}a god{/rb}{rt}{size=18}{color=#FFFFFF}Black Tide{/color}{/size}{/rt}"
+    narrator "Become{rb}a god{/rb}{rt}{size=18}{color=#FFFFFF}black tide{/color}{/size}{/rt}"
 
 # game/script.rpy:461
 translate english branch_end_god_a926ccd8:
@@ -466,7 +466,7 @@ translate english branch_end_god_a040fd40:
 translate english branch_end_god_f8b49a3d:
 
     # narrator "黑潮吞噬了一切。漫无边际的黑暗里，新生的神明诞生了。"
-    narrator "The Black Tide had consumed everything. In the boundless darkness, a new deity was born."
+    narrator "The black tide had consumed everything. In the boundless darkness, a new deity was born."
 
 # game/script.rpy:475
 translate english branch_end_god_85a824b5:
@@ -591,13 +591,13 @@ translate english branch_end_god_227f8ab6:
 translate english branch_end_god_12ac445c:
 
     # narrator "创世者守候这一望无尽的世界。黑潮{rb}褪去{/rb}{rt}{size=18}重生{/size}{/rt}后，它逐渐绽放出色彩。"
-    narrator "The Divine Creator watched over this endless expanse. After the Black Tide {rb}receded{/rb}{rt}{size=18}was reborn{/size}{/rt}, life began to blossom again in this world."
+    narrator "The Divine Creator watched over this endless expanse. After the black tide {rb}receded{/rb}{rt}{size=18}was reborn{/size}{/rt}, life began to blossom again in this world."
 
 # game/script.rpy:504
 translate english branch_end_god_731be575:
 
     # narrator "被黑潮吞噬的生命留在过去，无人知晓曾经的文明。"
-    narrator "The lives devoured by the Black Tide remained imprisoned in the past. No one knew of their former glory."
+    narrator "The lives devoured by the black tide remained imprisoned in the past. No one knew of their former glory."
 
 # game/script.rpy:506
 translate english branch_end_god_be25b023:
@@ -639,7 +639,7 @@ translate english branch_end_death_96d4d241:
 translate english branch_end_death_a2e111ad:
 
     # narrator "原初的生命，在黑潮中死去。新生的灵魂，于黑潮中孕育。\n唯有纯粹的灵魂，能够跨越死亡的距离。"
-    narrator "Just as the promordial life would perish in the Black Tide, The Black Tide would once more begets new lifeforms.\nOnly the purest souls could surpass the notion of death itself."
+    narrator "Just as the promordial life would perish in the black tide, The black tide would once more begets new lifeforms.\nOnly the purest souls could surpass the notion of death itself."
 
 # game/script.rpy:535
 translate english branch_end_death_4f797ba2:
@@ -681,13 +681,13 @@ translate english branch_end_death_a1e73a22:
 translate english branch_end_death_d45a5afa:
 
     # narrator "人类于黑潮中诞生，于黑潮中灭亡。"
-    narrator "Humans are born in the Black Tide, and will perish in the Black Tide."
+    narrator "Humans are born in the black tide, and will perish in the black tide."
 
 # game/script.rpy:548
 translate english branch_end_death_ff656777:
 
     # narrator "直至新生神明无法再背负世界的重量，黑潮便会再次浮现，淹没众生，从此往复。"
-    narrator "Until the newly born gods can no longer bear the weight of the world, the Black Tide will rise again and engulf everything. Rinse and repeat."
+    narrator "Until the newly born gods can no longer bear the weight of the world, the black tide will rise again and engulf everything. Rinse and repeat."
 
 # game/script.rpy:549
 translate english branch_end_death_80d27f04:
@@ -699,7 +699,7 @@ translate english branch_end_death_80d27f04:
 translate english branch_end_death_79a746c2:
 
     # narrator "黑潮消解万物，最后连同黑潮本身。"
-    narrator "The Black Tide dissolves all things, even itself."
+    narrator "The black tide dissolves all things, even itself."
 
 # game/script.rpy:558
 translate english branch_end_death_a78e2c54:
@@ -711,7 +711,7 @@ translate english branch_end_death_a78e2c54:
 translate english branch_end_death_4b59a50b:
 
     # narrator "万物溶于黑潮。"
-    narrator "All things dissolve in the Black Tide."
+    narrator "All things dissolve in the black tide."
 
 # game/script.rpy:560
 translate english branch_end_death_f34580ce:
@@ -843,7 +843,7 @@ translate english chapter_01_81f46926:
 translate english chapter_01_9c6a3619:
 
     # narrator "是原本已覆灭于黑潮中的，他日思夜想的哀丽秘榭。"
-    narrator "This is the Aedes Elysiae that had been destroyed by the Black Tide, the very same place he had yearned for day and night."
+    narrator "This is the Aedes Elysiae that had been destroyed by the black tide, the very same place he had yearned for day and night."
 
 # game/script.rpy:621
 translate english chapter_01_810d2c67:
@@ -939,7 +939,7 @@ translate english chapter_01_continue_04844cf1:
 translate english chapter_01_continue_2317e2c7:
 
     # narrator "此时的哀丽秘榭，还没有受到黑潮的侵袭。"
-    narrator "At this time, Aedes Elysiae had not yet been ravaged by the Black Tide."
+    narrator "At this time, Aedes Elysiae had not yet been ravaged by the black tide."
 
 # game/script.rpy:642
 translate english chapter_01_continue_a1a1d9f3:
@@ -1251,7 +1251,7 @@ translate english chapter_01_continue_537bd1a0:
 translate english chapter_01_continue_87f89d7c:
 
     # anaxa "稍微有点意外，这可不是什么大众科目。"
-    anaxa "Well then, you certainly color me surprised. Alchemy isn't exactly a popular subject."
+    anaxa "Well then, you certainly colour me surprised. Alchemy isn't exactly a popular subject."
 
 # game/script.rpy:716
 translate english chapter_01_continue_d1ee111d:
@@ -1380,7 +1380,7 @@ translate english chapter_01_quiz_6904cafd_2:
     anaxa "An incomplete answer."
 
 # game/script.rpy:751
-translate english chapter_01_quiz_e8930300:
+translate english  _quiz_e8930300:
 
     # anaxa "正确。"
     anaxa "Correct."
@@ -1557,7 +1557,7 @@ translate english chapter_01_after_9407f1f5:
 translate english chapter_01_after_4991c4dd:
 
     # anaxa "在黑潮时代，人总会靠着信仰而活。"
-    anaxa "To survive the Black Tides, people always live by faith."
+    anaxa "To survive the black tides, people always live by faith."
 
 # game/script.rpy:833
 translate english chapter_01_after_c22bd91a:
@@ -1719,7 +1719,7 @@ translate english chapter_01_after_0500784e:
 translate english chapter_01_after_3d3cdbbe:
 
     # phainon "我们没能阻止黑潮。"
-    phainon "We couldn't stop the Black Tide."
+    phainon "We couldn't stop the black tide."
 
 # game/script.rpy:872
 translate english chapter_01_after_6d0512f8:
@@ -2649,7 +2649,7 @@ translate english chapter_03_01ba5eb6:
 translate english chapter_03_0c8b3430:
 
     # anaxa_fullname "三阶段，以灵魂态启动炼金术，借由十二火种与贤者之石的力量分解黑潮，逆转因果。"
-    anaxa_fullname "Phase three, using my soul as a trigger, activate alchemy array using the power of the twelve coreflames and the Philosopher's Stone to dismantle the Black Tide and reverse causality."
+    anaxa_fullname "Phase three, using my soul as a trigger, activate alchemy array using the power of the twelve coreflames and the Philosopher's Stone to dismantle the black tide and reverse causality."
 
 # game/script.rpy:1108
 translate english chapter_03_478f2a13:
@@ -3579,7 +3579,7 @@ translate english chapter_03_after_6ef8fa54:
 translate english chapter_03_after_a2e111ad:
 
     # narrator "原初的生命，在黑潮中死去。新生的灵魂，于黑潮中孕育。\n唯有纯粹的灵魂，能够跨越死亡的距离。"
-    narrator "Just as the promordial life would perish in the Black Tide, The Black Tide would once more begets new lifeforms.\nOnly the purest souls could surpass the notion of death itself."
+    narrator "Just as the promordial life would perish in the black tide, The black tide would once more begets new lifeforms.\nOnly the purest souls could surpass the notion of death itself."
 
 # game/script.rpy:1314
 translate english chapter_03_after_aef0495f:
@@ -5289,7 +5289,7 @@ translate english strings:
 
     # game/script.rpy:798
     old "清空答卷，重新蒙一遍"
-    new "Erase all previous answers and redo the quiz"
+    new "Erase previous answers & redo the quiz"
 
     # game/script.rpy:809
     old "不用了"
@@ -5369,7 +5369,7 @@ translate english strings:
 
     # game/script.rpy:1346
     old "完成最后的炼金仪式"
-    new "Complete the final alchemy transmutation"
+    new "Finalize the alchemy transmutation"
 
     # game/script.rpy:1717
     old "带走它"
@@ -5385,7 +5385,7 @@ translate english strings:
 
     # game/script.rpy:1725
     old "确认放弃"
-    new ""
+    new "Confirm and abandon the coreflame"
 
     # game/script.rpy:1732
     old "带走火种"
@@ -5477,7 +5477,7 @@ translate english strings:
 
     # game/script.rpy:4
     old "再会"
-    new "Until we meet again"
+    new "Until We Meet Again"
 
     # game/script.rpy:4
     old "星空之下"

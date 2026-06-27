@@ -4,7 +4,7 @@
 ## 字体设置（使用思源黑体）
 init python:
     # 默认语言：简体中文
-    config.default_language = "schinese"
+    config.default_language = "english"
     
     # 思源黑体简体中文版
     # 字体：Noto Sans CJK SC（思源黑体 简体）
