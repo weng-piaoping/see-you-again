@@ -118,7 +118,7 @@ translate english prologue_3feb805e:
 translate english prologue_7afdac9b:
 
     # narrator "成为神明。成为这苍茫大地之上唯一的神，守望因黑潮而消失的世界。\n世界于黑潮中死亡，褪去黑潮后重生。"
-    narrator "Become a god. Become the one and only god above all else, watching over the worlds that had vanished in the Black Tide.\nEverything would dissolve in the black tide and would be reborn anew once the black tide receded."
+    narrator "Become a god. Become the one and only god above all else, watching over the worlds that had vanished in the black tide.\nEverything would dissolve in the black tide and would be reborn anew once the black tide receded."
 
 # game/script.rpy:339
 translate english prologue_9d437cda:
@@ -172,7 +172,7 @@ translate english prologue_99fe16eb:
 translate english prologue_41b845d1:
 
     # phainon "所谓再创世，如果只是让这个世界再次苏醒，而因黑潮死去的生命却永远消失……"
-    phainon "If the so called Era Nova means to reawaken this world, but those swallowed by the Black Tide would forever disappear..."
+    phainon "If the so called Era Nova means to reawaken this world, but those swallowed by the black tide would forever disappear..."
 
 # game/script.rpy:351
 translate english prologue_2f2b0b96:
@@ -376,7 +376,7 @@ translate english branch_start_f2e47ca3:
 translate english branch_end_god_a2e111ad:
 
     # narrator "原初的生命，在黑潮中死去。新生的灵魂，于黑潮中孕育。\n唯有纯粹的灵魂，能够跨越死亡的距离。"
-    narrator "Just as the promordial life would perish in the Black Tide, The Black Tide would once more begets new lifeforms.\nOnly the purest souls could surpass the notion of death itself."
+    narrator "Just as the promordial life would perish in the black tide, The black tide would once more begets new lifeforms.\nOnly the purest souls could surpass the notion of death itself."
 
 # game/script.rpy:412
 translate english branch_end_god_aef0495f:
@@ -442,7 +442,7 @@ translate english branch_end_god_4f46f469_3:
 translate english branch_end_god_18cfbe55:
 
     # narrator "成为{rb}神明{/rb}{rt}{size=18}{color=#FFFFFF}黑潮{/color}{/size}{/rt}"
-    narrator "Become{rb}a god{/rb}{rt}{size=18}{color=#FFFFFF}Black Tide{/color}{/size}{/rt}"
+    narrator "Become{rb}a god{/rb}{rt}{size=18}{color=#FFFFFF}black tide{/color}{/size}{/rt}"
 
 # game/script.rpy:461
 translate english branch_end_god_a926ccd8:
@@ -466,7 +466,7 @@ translate english branch_end_god_a040fd40:
 translate english branch_end_god_f8b49a3d:
 
     # narrator "黑潮吞噬了一切。漫无边际的黑暗里，新生的神明诞生了。"
-    narrator "The Black Tide had consumed everything. In the boundless darkness, a new deity was born."
+    narrator "The black tide had consumed everything. In the boundless darkness, a new deity was born."
 
 # game/script.rpy:475
 translate english branch_end_god_85a824b5:
@@ -591,13 +591,13 @@ translate english branch_end_god_227f8ab6:
 translate english branch_end_god_12ac445c:
 
     # narrator "创世者守候这一望无尽的世界。黑潮{rb}褪去{/rb}{rt}{size=18}重生{/size}{/rt}后，它逐渐绽放出色彩。"
-    narrator "The Divine Creator watched over this endless expanse. After the Black Tide {rb}receded{/rb}{rt}{size=18}was reborn{/size}{/rt}, life began to blossom again in this world."
+    narrator "The Divine Creator watched over this endless expanse. After the black tide {rb}receded{/rb}{rt}{size=18}was reborn{/size}{/rt}, life began to blossom again in this world."
 
 # game/script.rpy:504
 translate english branch_end_god_731be575:
 
     # narrator "被黑潮吞噬的生命留在过去，无人知晓曾经的文明。"
-    narrator "The lives devoured by the Black Tide remained imprisoned in the past. No one knew of their former glory."
+    narrator "The lives devoured by the black tide remained imprisoned in the past. No one knew of their former glory."
 
 # game/script.rpy:506
 translate english branch_end_god_be25b023:
@@ -639,7 +639,7 @@ translate english branch_end_death_96d4d241:
 translate english branch_end_death_a2e111ad:
 
     # narrator "原初的生命，在黑潮中死去。新生的灵魂，于黑潮中孕育。\n唯有纯粹的灵魂，能够跨越死亡的距离。"
-    narrator "Just as the promordial life would perish in the Black Tide, The Black Tide would once more begets new lifeforms.\nOnly the purest souls could surpass the notion of death itself."
+    narrator "Just as the promordial life would perish in the black tide, The black tide would once more begets new lifeforms.\nOnly the purest souls could surpass the notion of death itself."
 
 # game/script.rpy:535
 translate english branch_end_death_4f797ba2:
@@ -681,13 +681,13 @@ translate english branch_end_death_a1e73a22:
 translate english branch_end_death_d45a5afa:
 
     # narrator "人类于黑潮中诞生，于黑潮中灭亡。"
-    narrator "Humans are born in the Black Tide, and will perish in the Black Tide."
+    narrator "Humans are born in the black tide, and will perish in the black tide."
 
 # game/script.rpy:548
 translate english branch_end_death_ff656777:
 
     # narrator "直至新生神明无法再背负世界的重量，黑潮便会再次浮现，淹没众生，从此往复。"
-    narrator "Until the newly born gods can no longer bear the weight of the world, the Black Tide will rise again and engulf everything. Rinse and repeat."
+    narrator "Until the newly born gods can no longer bear the weight of the world, the black tide will rise again and engulf everything. Rinse and repeat."
 
 # game/script.rpy:549
 translate english branch_end_death_80d27f04:
@@ -699,7 +699,7 @@ translate english branch_end_death_80d27f04:
 translate english branch_end_death_79a746c2:
 
     # narrator "黑潮消解万物，最后连同黑潮本身。"
-    narrator "The Black Tide dissolves all things, even itself."
+    narrator "The black tide dissolves all things, even itself."
 
 # game/script.rpy:558
 translate english branch_end_death_a78e2c54:
@@ -711,7 +711,7 @@ translate english branch_end_death_a78e2c54:
 translate english branch_end_death_4b59a50b:
 
     # narrator "万物溶于黑潮。"
-    narrator "All things dissolve in the Black Tide."
+    narrator "All things dissolve in the black tide."
 
 # game/script.rpy:560
 translate english branch_end_death_f34580ce:
@@ -843,7 +843,7 @@ translate english chapter_01_81f46926:
 translate english chapter_01_9c6a3619:
 
     # narrator "是原本已覆灭于黑潮中的，他日思夜想的哀丽秘榭。"
-    narrator "This is the Aedes Elysiae that had been destroyed by the Black Tide, the very same place he had yearned for day and night."
+    narrator "This is the Aedes Elysiae that had been destroyed by the black tide, the very same place he had yearned for day and night."
 
 # game/script.rpy:621
 translate english chapter_01_810d2c67:
@@ -939,7 +939,7 @@ translate english chapter_01_continue_04844cf1:
 translate english chapter_01_continue_2317e2c7:
 
     # narrator "此时的哀丽秘榭，还没有受到黑潮的侵袭。"
-    narrator "At this time, Aedes Elysiae had not yet been ravaged by the Black Tide."
+    narrator "At this time, Aedes Elysiae had not yet been ravaged by the black tide."
 
 # game/script.rpy:642
 translate english chapter_01_continue_a1a1d9f3:
@@ -1251,7 +1251,7 @@ translate english chapter_01_continue_537bd1a0:
 translate english chapter_01_continue_87f89d7c:
 
     # anaxa "稍微有点意外，这可不是什么大众科目。"
-    anaxa "Well then, you certainly color me surprised. Alchemy isn't exactly a popular subject."
+    anaxa "Well then, you certainly colour me surprised. Alchemy isn't exactly a popular subject."
 
 # game/script.rpy:716
 translate english chapter_01_continue_d1ee111d:
@@ -1557,7 +1557,7 @@ translate english chapter_01_after_9407f1f5:
 translate english chapter_01_after_4991c4dd:
 
     # anaxa "在黑潮时代，人总会靠着信仰而活。"
-    anaxa "To survive the Black Tides, people always live by faith."
+    anaxa "To survive the black tides, people always live by faith."
 
 # game/script.rpy:833
 translate english chapter_01_after_c22bd91a:
@@ -1719,7 +1719,7 @@ translate english chapter_01_after_0500784e:
 translate english chapter_01_after_3d3cdbbe:
 
     # phainon "我们没能阻止黑潮。"
-    phainon "We couldn't stop the Black Tide."
+    phainon "We couldn't stop the black tide."
 
 # game/script.rpy:872
 translate english chapter_01_after_6d0512f8:
@@ -2649,7 +2649,7 @@ translate english chapter_03_01ba5eb6:
 translate english chapter_03_0c8b3430:
 
     # anaxa_fullname "三阶段，以灵魂态启动炼金术，借由十二火种与贤者之石的力量分解黑潮，逆转因果。"
-    anaxa_fullname "Phase three, using my soul as a trigger, activate alchemy array using the power of the twelve coreflames and the Philosopher's Stone to dismantle the Black Tide and reverse causality."
+    anaxa_fullname "Phase three, using my soul as a trigger, activate alchemy array using the power of the twelve coreflames and the Philosopher's Stone to dismantle the black tide and reverse causality."
 
 # game/script.rpy:1108
 translate english chapter_03_478f2a13:
@@ -3273,13 +3273,13 @@ translate english chapter_03_after_c8ae8a7d:
 translate english chapter_03_after_9e5ab6bc:
 
     # phainon "嗯，我能感受到，它已成为我生命的一部分。"
-    phainon "Yes, I can feel it. It has become a part of my being."
+    phainon "Mm, I feel it. It has become a part of my being."
 
 # game/script.rpy:1242
 translate english chapter_03_after_e5ab42ca:
 
     # phainon "……我的灵魂与你的心脏，如此紧密相连着。"
-    phainon "My soul and your heart, bound so intimately together."
+    phainon "My soul and your heart have become so intimately connected."
 
 # game/script.rpy:1243
 translate english chapter_03_after_62449996:
@@ -3315,25 +3315,25 @@ translate english chapter_03_after_14e988bc:
 translate english chapter_03_after_9fca1a08:
 
     # narrator "被埋葬的无数记忆从他眼前掠过，他就像一段段电影的观众，以灵魂的姿态感受一切。"
-    narrator "Countless buried memories flashed before his eyes. He was watching his life fly by as a spectator."
+    narrator "Countless buried memories flashed before his eyes. He was like a viewer of endless films, witnessing everything everything as a soul."
 
 # game/script.rpy:1252
 translate english chapter_03_after_07fd00b6:
 
     # narrator "他看到无数灵魂被束缚于黑潮中。"
-    narrator "I saw countless souls mingled within the black tide."
+    narrator "He saw countless souls bound within the black tide."
 
 # game/script.rpy:1253
 translate english chapter_03_after_17bcea0a:
 
     # narrator "人类构筑了这个世界。"
-    narrator "Humans have built this world."
+    narrator "Humanity built this world."
 
 # game/script.rpy:1254
 translate english chapter_03_after_664f8be1:
 
     # narrator "人类想守护这个世界。"
-    narrator "Humans want to protect this world."
+    narrator "Humanity wants to protect this world."
 
 # game/script.rpy:1255
 translate english chapter_03_after_ac1e4bf7:
@@ -3351,7 +3351,7 @@ translate english chapter_03_after_3dfe4dc5:
 translate english chapter_03_after_a738eb6c:
 
     # narrator "他向前方的人影伸出手，却触碰不到任何事物。"
-    narrator "He reached out toward the glowing figure ahead, but could not touch anything."
+    narrator "He reached out toward the glowing figure ahead, but couldn't touch anything."
 
 # game/script.rpy:1259
 translate english chapter_03_after_e3f152a7:
@@ -3363,7 +3363,7 @@ translate english chapter_03_after_e3f152a7:
 translate english chapter_03_after_4975f049:
 
     # phainon "……那刻夏老师？"
-    phainon "Professor Anaxa?"
+    phainon "...Professor Anaxa?"
 
 # game/script.rpy:1268
 translate english chapter_03_after_3efd66f1:
@@ -3399,7 +3399,7 @@ translate english chapter_03_after_b133f123_1:
 translate english chapter_03_after_c0da2daa:
 
     # anaxa "唯有一事我可以确定，现在的贤者之石，是炼金术所能抵达的终极成果。"
-    anaxa "Only one thing I can say for certain. The Philosopher's Stone as it exists now has achieved utmost perfection that alchemy can achieve."
+    anaxa "The only one thing I can say for certain is that the Philosopher's Stone as it exists now has achieved utmost perfection that alchemy can achieve."
 
 # game/script.rpy:1274
 translate english chapter_03_after_6d6223f5:
@@ -3441,13 +3441,13 @@ translate english chapter_03_after_41e89514:
 translate english chapter_03_after_dd92f857:
 
     # anaxa "只有抛却物理的存在，才能抵达至纯的终极。"
-    anaxa "Only by discarding our physical constraints can we achieve ultimate purity."
+    anaxa "Only by discarding our physical existence can we achieve ultimate purity."
 
 # game/script.rpy:1281
 translate english chapter_03_after_8b3f4e48:
 
     # anaxa "无论运用何种计算方法，想要突破黑潮的桎梏，都需要所谓神性作为炼金术的一环。"
-    anaxa "No matter what methods used, to break free from the shackles of the black tide, the so-called divinity is required as part of the alchemy experiment."
+    anaxa "Regardless of the methods used, if we want to break free from the shackles of the black tide, the so-called divinity is required as part of the alchemy experiment."
 
 # game/script.rpy:1282
 translate english chapter_03_after_0e3f613c:
@@ -3465,13 +3465,13 @@ translate english chapter_03_after_229e09d4:
 translate english chapter_03_after_ff429a61:
 
     # phainon "……那刻夏老师，能成为你的学生真是太好了。"
-    phainon "...Professor Anaxa, I'm so glad I got to be your student."
+    phainon "...Professor Anaxa, I'm really glad I got to be your student."
 
 # game/script.rpy:1285
 translate english chapter_03_after_6dfbcae2:
 
     # anaxa "变量，需要由人去创造。坐以待毙从来不是我的风格。"
-    anaxa "We the people must be the source of change. Waiting for a change has never been my style."
+    anaxa "The people must be the variable of change. Waiting for a change has never been my style."
 
 # game/script.rpy:1286
 translate english chapter_03_after_132b903c:
@@ -3495,7 +3495,7 @@ translate english chapter_03_after_eb027631:
 translate english chapter_03_after_313f130b:
 
     # anaxa "我一向很少这么回答。但白厄，我也无法给出准确的答案。"
-    anaxa "I almost never give this kind of answer. But, Phainon, I don't really know either."
+    anaxa "I rarely give this answer. But, Phainon, I can't give you an accurate answer either."
 
 # game/script.rpy:1290
 translate english chapter_03_after_6da134fc:
@@ -3507,7 +3507,7 @@ translate english chapter_03_after_6da134fc:
 translate english chapter_03_after_7f8e6970:
 
     # anaxa "如此一来，便能将不可能化为可能。"
-    anaxa "In doing so, we can turn the impossible to possible."
+    anaxa "In doing so, we can turn the impossible possible."
 
 # game/script.rpy:1292
 translate english chapter_03_after_dc9bb494:
@@ -3537,7 +3537,7 @@ translate english chapter_03_after_21095925:
 translate english chapter_03_after_489c699c:
 
     # phainon "我向你发誓：我会引领所有人在新世界重逢。"
-    phainon "Anaxa, I swear to you. I'll lead everyone to our reunion in Era Nova."
+    phainon "I swear to you. I'll lead everyone to our reunion in Era Nova."
 
 # game/script.rpy:1297
 translate english chapter_03_after_d5e8a344:
@@ -3579,7 +3579,7 @@ translate english chapter_03_after_6ef8fa54:
 translate english chapter_03_after_a2e111ad:
 
     # narrator "原初的生命，在黑潮中死去。新生的灵魂，于黑潮中孕育。\n唯有纯粹的灵魂，能够跨越死亡的距离。"
-    narrator "Just as the promordial life would perish in the Black Tide, The Black Tide would once more begets new lifeforms.\nOnly the purest souls could surpass the notion of death itself."
+    narrator "Just as the promordial life would perish in the black tide, The black tide would once more begets new lifeforms.\nOnly the purest souls could surpass the notion of death itself."
 
 # game/script.rpy:1314
 translate english chapter_03_after_aef0495f:
@@ -3591,7 +3591,7 @@ translate english chapter_03_after_aef0495f:
 translate english chapter_03_after_4f46f469:
 
     # narrator "成为神明"
-    narrator "Become a god"
+    narrator "Become a god."
 
 # game/script.rpy:1319
 translate english chapter_03_after_8b0a7816:
@@ -3633,7 +3633,7 @@ translate english chapter_03_after_ef6e28bc:
 translate english chapter_03_after_5f3f253d:
 
     # anaxa "白厄——现在，我们以相同的方式存在着，便能互相感知。"
-    anaxa "Phainon, now that we have both transcended physicality, we can perceive eachother."
+    anaxa "Phainon, now that we have both transcended physicality, we can perceive each other."
 
 # game/script.rpy:1332
 translate english chapter_03_after_f99bcaa7:
@@ -3657,7 +3657,7 @@ translate english chapter_03_after_faf96210:
 translate english chapter_03_after_0d4aac70:
 
     # phainon "请开始吧。"
-    phainon "Then let us begin."
+    phainon "Please begin."
 
 # game/script.rpy:1348
 translate english chapter_03_after_e6662835:
@@ -3669,7 +3669,7 @@ translate english chapter_03_after_e6662835:
 translate english chapter_03_after_d871317c:
 
     # anaxa "黑潮不过为笼罩世界的表象，现在，由我们来引领世界走向真实。"
-    anaxa "The black tide is but a veil covering the world. Now let us lead the world towards truth."
+    anaxa "The black tide was but a veil covering the world. Now let us lead the world towards truth."
 
 # game/script.rpy:1354
 translate english chapter_03_after_065e4fde:
@@ -3819,7 +3819,7 @@ translate english chapter_02_9f604c11:
 translate english chapter_02_671adbd5:
 
     # anaxa_in_memory "翻开这本书第七百二十页——"
-    anaxa_in_memory "Turn to page 720."
+    anaxa_in_memory "Turn to page 720 of this book—"
 
 # game/script.rpy:1464
 translate english chapter_02_e6541f1f:
@@ -3921,7 +3921,7 @@ translate english chapter_02_77405bc7:
 translate english chapter_02_81524e5d:
 
     # anaxa_in_memory "你若是如此坚信，等到需要理性火种的那一天，就将它拿去吧。"
-    anaxa_in_memory "If you are so determined, when the day comes that you'll need the coreflame of reason, go ahead and take it."
+    anaxa_in_memory "If you are so determined, go ahead and take the coreflame of reason when the day comes that you'll need it."
 
 # game/script.rpy:1483
 translate english chapter_02_e1199761:
@@ -3951,7 +3951,7 @@ translate english chapter_02_b498159b:
 translate english chapter_02_7622d07a:
 
     # anaxa_in_memory "这么早就来了？我们约定的时间是半小时后。"
-    anaxa_in_memory "You're here so early? We've agreed to meet up half an hour from now."
+    anaxa_in_memory "You're here so early? There's still half an hour to the time we agreed to meet at."
 
 # game/script.rpy:1495
 translate english chapter_02_5ae9b7b7:
@@ -4017,7 +4017,7 @@ translate english chapter_02_fa16da44:
 translate english chapter_02_3de14bc9:
 
     # phainon_in_memory "原来老师也和我一样，我还是第一次听你讲过去的事。"
-    phainon_in_memory "So you're just like me, Professor. This is the first time I've heard you talk about the past."
+    phainon_in_memory "So the professor and I are the same. This is the first time I've heard you talk about the past."
 
 # game/script.rpy:1507
 translate english chapter_02_2b044828:
@@ -4173,7 +4173,7 @@ translate english chapter_02_e5eb6724:
 translate english chapter_02_8f25f42a:
 
     # phainon_in_memory "就可以对外如此介绍：我啊，是那刻夏老师的学生。"
-    phainon_in_memory "I can proudly present to everyone: I am a student of Anaxa."
+    phainon_in_memory "I can proudly present to everyone: I am a student of Professor Anaxa."
 
 # game/script.rpy:1546
 translate english chapter_02_31be1ccd:
@@ -4185,7 +4185,7 @@ translate english chapter_02_31be1ccd:
 translate english chapter_02_9787db7c:
 
     # phainon_in_memory "这是真情流露。"
-    phainon_in_memory "This is what I truely feel."
+    phainon_in_memory "This is what I truly feel."
 
 # game/script.rpy:1549
 translate english chapter_02_f6f1a3df:
@@ -4263,7 +4263,7 @@ translate english chapter_02_e5d2c9d7:
 translate english chapter_02_44cb9ba4:
 
     # anaxa "别做多余的事，尽快撤离才是正解。"
-    anaxa "Don't act so rash. Evactuating is the only logical choice."
+    anaxa "Don't act so rash. Evacuate as soon as possible."
 
 # game/script.rpy:1579
 translate english chapter_02_7b3a356b:
@@ -4329,7 +4329,7 @@ translate english chapter_02_e729b6e1:
 translate english chapter_02_fe0e1192:
 
     # anaxa "我并不认同火种能够改变人类的命运。更不指望它改写历史，亦或是创造未来。"
-    anaxa "I don't believe that coreflames can change humanity's destiny, nor do O expect it to reshape history, or change the future."
+    anaxa "I don't believe that coreflames can change humanity's destiny, nor do I expect it to reshape history, or change the future."
 
 # game/script.rpy:1590
 translate english chapter_02_e2bf1e83:
@@ -4347,7 +4347,7 @@ translate english chapter_02_b7f3bcad:
 translate english chapter_02_edcc4296:
 
     # phainon "……我如果再早点来就好了。"
-    phainon "What if I had arrived sooner..."
+    phainon "...If only I had arrived sooner..."
 
 # game/script.rpy:1593
 translate english chapter_02_3964b73f:
@@ -4383,13 +4383,13 @@ translate english chapter_02_8835b985:
 translate english chapter_02_497a9c53:
 
     # anaxa "别白费力气了，白厄。我撑不了多久。"
-    anaxa "Save your breath, Phainon. I don't have much time left."
+    anaxa "Don't waste your energy, Phainon. I don't have much time left."
 
 # game/script.rpy:1600
 translate english chapter_02_9d2412e1:
 
     # phainon "我……还想未来有一天，能回到神悟树庭，像从前一样坐在教室窗边。"
-    phainon "I... Still hoped that one day in the future, we could return to the Grove, sitting by the classroom window just like old times."
+    phainon "I... Still hoped that one day in the future, we could return to the Grove and sit by the classroom window just like old times."
 
 # game/script.rpy:1601
 translate english chapter_02_098f82d8:
@@ -4533,7 +4533,7 @@ translate english chapter_02_b60a254f:
 translate english chapter_02_27061f2e:
 
     # anaxa "别露出这副表情。"
-    anaxa "Don't make that face."
+    anaxa "Don't make that sort of expression."
 
 # game/script.rpy:1629
 translate english chapter_02_50faf93c:
@@ -4545,7 +4545,7 @@ translate english chapter_02_50faf93c:
 translate english chapter_02_72709eb8:
 
     # anaxa "空白意味着无限可能，而英雄也是其中的一种。"
-    anaxa "a blank slate holds infinite potential. Becoming a hero is one of them."
+    anaxa "A blank slate holds infinite potential. Becoming a hero is one of them."
 
 # game/script.rpy:1631
 translate english chapter_02_9a42d823:
@@ -4581,13 +4581,13 @@ translate english chapter_02_f339c8e0:
 translate english chapter_02_eb48914b:
 
     # anaxa "更何况自神悟树庭毕业后，你一直奋战在第一线，连信件也没以前寄得勤快。"
-    anaxa "Besides, ever since you've graduated, you've always been fighting on the front lines. You haven't even written to me as often."
+    anaxa "Besides, ever since you've graduated, you're constantly fighting on the front lines. Your letters with me haven't been as frequent as before."
 
 # game/script.rpy:1637
 translate english chapter_02_d0973613:
 
     # phainon "老师是在责怪我吗？"
-    phainon "Are you blaming me?"
+    phainon "Teacher, are you blaming me?"
 
 # game/script.rpy:1638
 translate english chapter_02_867b423b:
@@ -4647,25 +4647,25 @@ translate english chapter_02_ff510d2d:
 translate english chapter_02_e1df081f:
 
     # phainon "……永别了，吾师。"
-    phainon "Farewell, my dearest professor."
+    phainon "Farewell, my dearest teacher."
 
 # game/script.rpy:1653
 translate english chapter_02_31c5df96:
 
     # phainon "至少，这一次……我能和你好好道别了。"
-    phainon "At least, this time... I was able to bide you a proper farewell."
+    phainon "At least, this time... I was able to say goodbye properly."
 
 # game/script.rpy:1654
 translate english chapter_02_2350d2dc:
 
     # narrator "他长久拥抱着面前的身躯。沾在面颊的血逐渐干涸，和身躯一起慢慢失去温度。"
-    narrator "He held the body before him in a long embrace, as it gradually lost its warmth together with the blood staining his cheek."
+    narrator "He held the body before him in a long embrace. The blood that stained his cheek eventually dried together with the body that gradually lost its warmth."
 
 # game/script.rpy:1657
 translate english chapter_02_2503c42d:
 
     # narrator "——直至粉蓝色的眼睛长久阖上后，他想起了那道时间规则。"
-    narrator "Not until that pinkish-blue eye closed for the last time did he recall the rule of time."
+    narrator "Only after that pinkish-blue eye closed for the last time did he recall the rule of time."
 
 # game/script.rpy:1659
 translate english chapter_02_a22bf110:
@@ -4707,7 +4707,7 @@ translate english chapter_02_7407fb9d:
 translate english chapter_02_08b4a4c8:
 
     # narrator "现在的翁法罗斯，已经步入倒计时。"
-    narrator "Amphoreus had entered its final countdown."
+    narrator "The current Amphoreus had entered its final countdown."
 
 # game/script.rpy:1674
 translate english chapter_02_810d2c67_3:
@@ -4731,13 +4731,13 @@ translate english chapter_02_b60a254f_1:
 translate english chapter_02_f1171ad6:
 
     # phainon "可是时至今日，我们仍然没能亲眼看到真实的星空。"
-    phainon "But even now, he have never gazed upon the real sky."
+    phainon "But even now, we have yet to gaze upon the real sky."
 
 # game/script.rpy:1680
 translate english chapter_02_27061f2e_1:
 
     # anaxa "别露出这副表情。"
-    anaxa "Don't make that face."
+    anaxa "Don't make that such an expression."
 
 # game/script.rpy:1681
 translate english chapter_02_50faf93c_1:
@@ -4755,13 +4755,13 @@ translate english chapter_02_72709eb8_1:
 translate english chapter_02_9a42d823_1:
 
     # phainon "……原来你全部都记得。"
-    phainon "...You've remebered everything."
+    phainon "...You've remembered everything."
 
 # game/script.rpy:1684
 translate english chapter_02_b657a337_1:
 
     # anaxa "哼，身为你的老师，我当然记得。"
-    anaxa "Hmph, as your professor, of course I would."
+    anaxa "Hmph, as your teacher, of course I would."
 
 # game/script.rpy:1685
 translate english chapter_02_054f00c7_1:
@@ -4785,13 +4785,13 @@ translate english chapter_02_f339c8e0_1:
 translate english chapter_02_eb48914b_1:
 
     # anaxa "更何况自神悟树庭毕业后，你一直奋战在第一线，连信件也没以前寄得勤快。"
-    anaxa "Besides, ever since you've graduated, you've always been fighting on the front lines. You haven't even written to me as often."
+    anaxa "Besides, ever since you've graduated, you're constantly fighting on the front lines. Your letters with me haven't been as frequent as before."
 
 # game/script.rpy:1689
 translate english chapter_02_d0973613_1:
 
     # phainon "老师是在责怪我吗？"
-    phainon "Is the professor blaming me?"
+    phainon "Teacher, are you blaming me?"
 
 # game/script.rpy:1690
 translate english chapter_02_867b423b_1:
@@ -4821,13 +4821,13 @@ translate english chapter_02_810d2c67_5:
 translate english chapter_02_4975f049_1:
 
     # phainon "……那刻夏老师？"
-    phainon "...Professor?"
+    phainon "...Professor Anaxa?"
 
 # game/script.rpy:1696
 translate english chapter_02_39d7d1fa_1:
 
     # phainon "……那刻夏老师！"
-    phainon "...Professor!"
+    phainon "...Professor Anaxa!"
 
 # game/script.rpy:1697
 translate english chapter_02_c4fae53b_2:
@@ -4851,31 +4851,31 @@ translate english chapter_02_ff510d2d_1:
 translate english chapter_02_e1df081f_1:
 
     # phainon "……永别了，吾师。"
-    phainon "Farewell, Professor."
+    phainon "Farewell, my dearest teacher."
 
 # game/script.rpy:1705
 translate english chapter_02_31c5df96_1:
 
     # phainon "至少，这一次……我能和你好好道别了。"
-    phainon "At least, this time... I was able to properly bid you farewell."
+    phainon "At least, this time... I was able to say goodbye properly."
 
 # game/script.rpy:1706
 translate english chapter_02_2350d2dc_1:
 
     # narrator "他长久拥抱着面前的身躯。沾在面颊的血逐渐干涸，和身躯一起慢慢失去温度。"
-    narrator "He held onto the body in his arms for a long time, as it gradually lost its warmth together with the blood staining his cheek."
+    narrator "He held the body before him in a long embrace. The blood that stained his cheek eventually dried together with the body that gradually lost its warmth."
 
 # game/script.rpy:1709
 translate english chapter_02_b2aa6695:
 
     # narrator "温热的眼泪落在冰冷的身躯。而面前燃起的火种仍在提醒他，一切尚未结束。"
-    narrator "Warm tears fell onto the cold body. Yet the coreflame before him still reminded him that all was not yet over."
+    narrator "Warm tears fell onto the ice cold body. Yet the coreflame before him still reminded him that all was not yet over."
 
 # game/script.rpy:1715
 translate english chapter_02_7b0e06e0:
 
     # narrator "要带走理性火种吗？"
-    narrator "Will you take away the coreflame of Reason?"
+    narrator "Will you take away the Coreflame of Reason?"
 
 # game/script.rpy:1720
 translate english chapter_02_e7510345:
@@ -4911,7 +4911,7 @@ translate english chapter_02_02165269:
 translate english chapter_02_b8ef0d73:
 
     # narrator "他带走了理性火种，神悟树庭所保存的希望。"
-    narrator "He took away the coreflame of Reason, the last hope guarded by the Grove of Epiphany."
+    narrator "He took away the Coreflame of Reason, the last hope guarded by the Grove of Epiphany."
 
 # game/script.rpy:1739
 translate english chapter_02_02165269_1:
@@ -4923,7 +4923,7 @@ translate english chapter_02_02165269_1:
 translate english chapter_02_f488ac48:
 
     # narrator "在模糊不清的画面里，他看见理性火种回到天幕。"
-    narrator "In a blur, he saw the coreflame of Reason returned to the sky."
+    narrator "In a blur, he saw the Coreflame of Reason returned to the sky."
 
 # game/script.rpy:1751
 translate english true_end_5cf15297:
@@ -5025,7 +5025,7 @@ translate english true_end_33df0fad:
 translate english true_end_73b64f86:
 
     # anaxa "新生、发芽、成长、濒毁。"
-    anaxa "Rebirth, sprouting, growth, destruction"
+    anaxa "Rebirth, sprouting, growth, destruction."
 
 # game/script.rpy:1772
 translate english true_end_051ecbd5:
@@ -5061,7 +5061,7 @@ translate english true_end_98398287:
 translate english true_end_d1c75357:
 
     # phainon "新世界的人们，终于可以一同守望没有黑潮的明天。"
-    phainon "The people of Era Nova can finally embrace a tomorrow without the threat of the black tide."
+    phainon "The people of the new world can finally embrace a tomorrow without the threat of the black tide."
 
 # game/script.rpy:1782
 translate english true_end_40a14a40:
@@ -5091,7 +5091,7 @@ translate english true_end_abbec11b:
 translate english true_end_21b6770b:
 
     # narrator "——他回到了最初的哀丽秘榭。"
-    narrator "He has returned to Aedes Elysiae in its earliest days."
+    narrator "——He has returned to Aedes Elysiae in its earliest days."
 
 # game/script.rpy:1790
 translate english true_end_461a0f89:
@@ -5121,7 +5121,7 @@ translate english true_end_fa6f4521:
 translate english true_end_ccb7c01a:
 
     # anaxa "我先一步抵达时间之外，直至过去的炼金术跨越时间，由你来完成首尾相连。"
-    anaxa "I arrived ahead of you, beyond the reach of time. I waited until the alchemy ritual of the past bridge the ages, for you to bring it full circle."
+    anaxa "I arrived ahead of you, just outside the reach of time. I waited until the alchemy of the past transcended time, and you were the one to bring it full circle."
 
 # game/script.rpy:1798
 translate english true_end_e428fd47:
@@ -5133,7 +5133,7 @@ translate english true_end_e428fd47:
 translate english true_end_399404b0:
 
     # anaxa "你心中应当已有答案。"
-    anaxa "You should already know the answer."
+    anaxa "You should already know the answer in your heart."
 
 # game/script.rpy:1800
 translate english true_end_cc35c593:
@@ -5163,7 +5163,7 @@ translate english true_end_b9858d60:
 translate english true_end_5c89bb2d:
 
     # phainon "创造实现理想的世界。"
-    phainon "Create a world where ideals become reality."
+    phainon "To create a world where ideals become reality."
 
 translate english strings:
 
@@ -5221,11 +5221,11 @@ translate english strings:
 
     # game/script.rpy:686
     old "我们是不是在哪里见过"
-    new "Have we met eachother before?"
+    new "Have we met each other before?"
 
     # game/script.rpy:691
     old "没有，我就住在旁边"
-    new "Nope, I live closeby."
+    new "Nope, I live close by."
 
     # game/script.rpy:743
     old "物质转化"
@@ -5285,11 +5285,11 @@ translate english strings:
 
     # game/script.rpy:796
     old "再来一次"
-    new "Again"
+    new "Try again"
 
     # game/script.rpy:798
     old "清空答卷，重新蒙一遍"
-    new "Erase all previous answers and redo the quizz"
+    new "Erase previous answers & redo the quiz"
 
     # game/script.rpy:809
     old "不用了"
@@ -5297,7 +5297,7 @@ translate english strings:
 
     # game/script.rpy:846
     old "其实我来自未来"
-    new "Actually, I come from the future."
+    new "Actually, I am from the future."
 
     # game/script.rpy:849
     old "我认识你，那刻夏"
@@ -5321,11 +5321,11 @@ translate english strings:
 
     # game/script.rpy:1009
     old "抽签"
-    new "Take a fortune slip"
+    new "Draw"
 
     # game/script.rpy:1014
     old "不抽签"
-    new "Do not take it"
+    new "Do not draw"
 
     # game/script.rpy:1016
     old "查看书架上的相册"
@@ -5333,7 +5333,7 @@ translate english strings:
 
     # game/script.rpy:1019
     old "直接出发"
-    new "Leave this place"
+    new "Immediately depart"
 
     # game/script.rpy:1069
     old "一张未送出的留言条"
@@ -5369,7 +5369,7 @@ translate english strings:
 
     # game/script.rpy:1346
     old "完成最后的炼金仪式"
-    new "Complete the final alchemy transmutation"
+    new "Finalize the alchemy transmutation"
 
     # game/script.rpy:1717
     old "带走它"
@@ -5377,7 +5377,7 @@ translate english strings:
 
     # game/script.rpy:1719
     old "不带走"
-    new "Don't take it"
+    new "Don't take it away"
 
     # game/script.rpy:1722
     old "放弃火种"
@@ -5385,7 +5385,7 @@ translate english strings:
 
     # game/script.rpy:1725
     old "确认放弃"
-    new ""
+    new "Confirm and abandon the coreflame"
 
     # game/script.rpy:1732
     old "带走火种"
@@ -5477,7 +5477,7 @@ translate english strings:
 
     # game/script.rpy:4
     old "再会"
-    new "Until we meet again"
+    new "Until We Meet Again"
 
     # game/script.rpy:4
     old "星空之下"
@@ -5523,3 +5523,82 @@ translate english strings:
     old "凶"
     new "Inauspicious"
 
+# TODO: Translation updated at 2026-06-28 08:12
+
+translate english strings:
+
+    # game/script.rpy:404
+    old "#1 回到昨日"
+    new "#1 Back to Yesterday"
+
+    # game/script.rpy:519
+    old "{color=#000000}Ending A\n最遥远的距离{/color}"
+    new "{color=#000000}Ending A\nThe Farthest Distance{/color}"
+
+    # game/script.rpy:568
+    old "{color=#000000}Ending B\n生而为人{/color}"
+    new "{color=#000000}Ending B\nTo Be Human{/color}"
+
+    # game/script.rpy:591
+    old "{color=#000000}Ending D\n与你同行的梦{/color}"
+    new "{color=#000000}Ending D\nA Dream, Together With You{/color}"
+
+    # game/script.rpy:1028
+    old "#3 终点"
+    new "#3 The Finale"
+
+    # game/script.rpy:1371
+    old "#2 重回树庭"
+    new "#2 Back to the Grove"
+
+    # game/script.rpy:1380
+    old "{alpha=0.7}我{/alpha}"
+    new "{alpha=0.7}I{/alpha}"
+
+    # game/script.rpy:1393
+    old "{alpha=0.7}我们{/alpha}"
+    new "{alpha=0.7}We{/alpha}"
+
+    # game/script.rpy:1815
+    old "《See You Again》"
+    new "See You Again"
+
+    # game/script.rpy:1825
+    old "原作  崩坏·星穹铁道 / CP：厄夏"
+    new "Original IP: Honkai: Star Rail / CP: Phainon-Anaxa"
+
+    # game/script.rpy:1834
+    old "演员  白厄/那刻夏"
+    new "Characters: Phainon / Anaxa"
+
+    # game/script.rpy:1843
+    old "美术/人设    游离态深蓝"
+    new "Art/Character Design: 游离态深蓝"
+
+    # game/script.rpy:1852
+    old "文案/程序    阿葵aaaoi"
+    new "Writing/Programming: 阿葵aaaoi"
+
+    # game/script.rpy:1859
+    old "音乐  Alex Productions/The Mountain/Kevin MacLeod"
+    new "Music: Alex Productions/The Mountain/Kevin MacLeod"
+
+    # game/script.rpy:1869
+    old "Thanks for playing, and wish you a pleasant journey."
+    new "Thanks for playing, and wish you a pleasant journey."
+
+    # game/script.rpy:1889
+    old "{color=#000000}Ending C——True End\n新世界{/color}"
+    new "{color=#000000}Ending C——True End\nEra Nova{/color}"
+
+# TODO: Translation updated at 2026-06-28 08:28
+
+translate english strings:
+
+    # game/script.rpy:568
+    old "{color=#000000}Ending B\n生而为人{/color})"
+    new ""
+
+    # game/script.rpy:591
+    old "{color=#000000}Ending D\n与你同行的梦{/color})"
+    new ""

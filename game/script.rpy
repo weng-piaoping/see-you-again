@@ -4,71 +4,71 @@ init python:
     CG_LIST = [
         {
             "id": "cg_young",
-            "name": _("薄荷与麦香"),
-            "description": _("薄荷与麦香"),
+            "name": __("薄荷与麦香"),
+            "description": __("薄荷与麦香"),
             "image": "images/cg/cg_young.png",
             "thumbnail": "images/cg/cg_young.png"
         },
         {
             "id": "cg_gods",
-            "name": _("新世界"),
-            "description": _("新世界"),
+            "name": __("新世界"),
+            "description": __("新世界"),
             "image": "images/cg/cg_gods.png",
             "thumbnail": "images/cg/cg_gods.png"
         },
         {
             "id": "dream",
-            "name": _("再会"),
-            "description": _("再会"),
+            "name": __("再会"),
+            "description": __("再会"),
             "image": "images/cg/dream.png",
             "thumbnail": "images/cg/dream.png"
         },
         {
             "id": "under_sky",
-            "name": _("星空之下"),
-            "description": _("星空之下"),
+            "name": __("星空之下"),
+            "description": __("星空之下"),
             "image": "images/cg/under_sky.png",
             "thumbnail": "images/cg/under_sky.png"
         },
         {
             "id": "cgB-0",
-            "name": _("生而为人"),
-            "description": _("生而为人"),
+            "name": __("生而为人"),
+            "description": __("生而为人"),
             "image": "images/cg/cgB-0.png",
             "thumbnail": "images/cg/cgB-0.png"
         },
         {
             "id": "cgB-1",
-            "name": _("无法改变的"),
-            "description": _("无法改变的"),
+            "name": __("无法改变的"),
+            "description": __("无法改变的"),
             "image": "images/cg/cgB-1.png",
             "thumbnail": "images/cg/cgB-1.png"
         },
         {
             "id": "cgB-2",
-            "name": _("终局"),
-            "description": _("终局"),
+            "name": __("终局"),
+            "description": __("终局"),
             "image": "images/cg/cgB-2.png",
             "thumbnail": "images/cg/cgB-2.png"
         }, 
         {
             "id": "death",
-            "name": _("死别"),
-            "description": _("死别"),
+            "name": __("死别"),
+            "description": __("死别"),
             "image": "images/cg/death.png",
             "thumbnail": "images/cg/death.png"
         },
         {
             "id": "cgD1-1",
-            "name": _("再度与你"),
-            "description": _("再度与你"),
+            "name": __("再度与你"),
+            "description": __("再度与你"),
             "image": "images/cg/cgD1-1.png",
             "thumbnail": "images/cg/cgD1-1.png"
         },
         {
             "id": "cgD1-2",
-            "name": _("与你同行的梦"),
-            "description": _("与你同行的梦"),
+            "name": __("与你同行的梦"),
+            "description": __("与你同行的梦"),
             "image": "images/cg/cgD1-2.png",
             "thumbnail": "images/cg/cgD1-2.png"
         },
@@ -401,7 +401,7 @@ label branch_start:
     $ current_music = ""
     narrator "灵魂和意识开始剥离，身体变得很轻，时间成为逆流的河。"
     pause 2.0
-    show screen big_text("#1 回到昨日") with Dissolve(2.0)
+    show screen big_text(_("#1 回到昨日")) with Dissolve(2.0)
     pause 2.0
     hide screen big_text with dissolve
     jump chapter_01
@@ -516,7 +516,7 @@ label branch_end_god:
     narrator_dark_anaxa "我一直在这里。"
     pause 1.0
     hide anaxa2 normal02 with Dissolve(2.0)
-    show text "{color=#000000}Ending A\n最遥远的距离{/color}" at truecenter with dissolve
+    show text _("{color=#000000}Ending A\n最遥远的距离{/color}") at truecenter with dissolve
     pause 2.0
     hide text with dissolve
     jump main_menu_end
@@ -565,7 +565,7 @@ label branch_end_death:
     pause 2.0
     narrator "仿佛来自谁人的拥抱。"
     show cg white with Dissolve(5.0)
-    show text "{color=#000000}Ending B\n生而为人{/color}" at truecenter with dissolve
+    show text _("{color=#000000}Ending B\n生而为人{/color}") at truecenter with dissolve
     pause 2.0
     hide text with dissolve
     jump main_menu_end
@@ -588,7 +588,7 @@ label branch_stay:
     scene bg white with Dissolve(2.0)
     hide cg
     pause 2.0
-    show text "{color=#000000}Ending D\n与你同行的梦{/color}" at truecenter with dissolve
+    show text _("{color=#000000}Ending D\n与你同行的梦{/color}") at truecenter with dissolve
     pause 2.0
     hide text with dissolve
     jump main_menu_end
@@ -1025,7 +1025,7 @@ label chapter_03:
     stop music fadeout 2.0
     $ current_music = ""
     pause 2.0
-    show screen big_text("#3 终点") with Dissolve(2.0)
+    show screen big_text(_("#3 终点")) with Dissolve(2.0)
     pause 2.0
     hide screen big_text with dissolve
     scene bg office as darkened:
@@ -1368,7 +1368,7 @@ label chapter_02:
     stop music fadeout 2.0
     $ current_music = ""
     pause 2.0
-    show screen big_text("#2 重回树庭") with Dissolve(2.0)
+    show screen big_text(_("#2 重回树庭")) with Dissolve(2.0)
     pause 2.0
     hide screen big_text with dissolve
     scene bg red with fade
@@ -1377,7 +1377,7 @@ label chapter_02:
     narrator "违逆时间带来的灼烧感，令他的意识几近崩溃。"
     $ current_music = "audio/main_menu.mp3"
     play music "audio/main_menu.mp3" fadein 2.0
-    show expression Text("{alpha=0.7}我{/alpha}", size=45, color="#fff", font="fonts/SourceHanSerifSC-Bold.otf") as text_end at nightmare_twist:
+    show expression Text(_("{alpha=0.7}我{/alpha}"), size=45, color="#fff", font="fonts/SourceHanSerifSC-Bold.otf") as text_end at nightmare_twist:
         xalign 0.5
         yalign 0.5
     with fade
@@ -1390,7 +1390,7 @@ label chapter_02:
     show anaxa scholar normal at mosaic_blur_at(z=1.4,alpha_val=0.3) with dissolve
     pause 2.0
     show anaxa normal at mosaic_blur_at(z=1.4,alpha_val=0.3) with dissolve
-    show expression Text("{alpha=0.7}我们{/alpha}", size=45, color="#fff", font="fonts/SourceHanSerifSC-Bold.otf") as text_end at nightmare_twist:
+    show expression Text(_("{alpha=0.7}我们{/alpha}"), size=45, color="#fff", font="fonts/SourceHanSerifSC-Bold.otf") as text_end at nightmare_twist:
         xalign 0.5
         yalign 0.5
     with fade
@@ -1812,7 +1812,7 @@ label true_end:
     pause 5.0
     #play music "audio/chapter_02.mp3" fadein 2.0
     scene bg white with dissolve
-    show expression Text("《See You Again》", size=64, color="#000", font="fonts/HuiWenMinCho.ttf") at truecenter as text_end with Dissolve(2.0)
+    show expression Text(_("《See You Again》"), size=64, color="#000", font="fonts/HuiWenMinCho.ttf") at truecenter as text_end with Dissolve(2.0)
     show phainon little normal at left with Dissolve(2.0)
     pause(2.0)
     hide phainon with fade
@@ -1822,7 +1822,7 @@ label true_end:
     hide anaxa with fade
 
     show phainon sad at left with Dissolve(2.0)
-    show expression Text("原作  崩坏·星穹铁道 / CP：厄夏", size=32, color="#000", font="fonts/HuiWenMinCho.ttf") as text_end:
+    show expression Text(_("原作  崩坏·星穹铁道 / CP：厄夏"), size=32, color="#000", font="fonts/HuiWenMinCho.ttf") as text_end:
         xalign 0.7
         yalign 0.5
     with Dissolve(2.0)
@@ -1831,7 +1831,7 @@ label true_end:
     hide phainon with fade
     
     show anaxa normal at right with Dissolve(2.0)
-    show expression Text("演员  白厄/那刻夏", size=32, color="#000", font="fonts/HuiWenMinCho.ttf") as text_end:
+    show expression Text(_("演员  白厄/那刻夏"), size=32, color="#000", font="fonts/HuiWenMinCho.ttf") as text_end:
         xalign 0.5
         yalign 0.5
     with Dissolve(2.0)
@@ -1840,7 +1840,7 @@ label true_end:
     hide anaxa with fade 
 
     show phainon2 normal at left with Dissolve(2.0)
-    show expression Text("美术/人设    游离态深蓝", size=32, color="#000", font="fonts/HuiWenMinCho.ttf") as text_end:
+    show expression Text(_("美术/人设    游离态深蓝"), size=32, color="#000", font="fonts/HuiWenMinCho.ttf") as text_end:
         xalign 0.7
         yalign 0.5
     with Dissolve(2.0)
@@ -1849,14 +1849,14 @@ label true_end:
     hide phainon2 with fade 
 
     show anaxa2 normal at right with Dissolve(2.0)
-    show expression Text("文案/程序    阿葵aaaoi", size=32, color="#000", font="fonts/HuiWenMinCho.ttf") as text_end:
+    show expression Text(_("文案/程序    阿葵aaaoi"), size=32, color="#000", font="fonts/HuiWenMinCho.ttf") as text_end:
         xalign 0.25
         yalign 0.5
     with Dissolve(2.0)
     pause(2.0)
     hide expression text_end with Dissolve(2.0)
     hide anaxa2 with fade
-    show expression Text("音乐  Alex Productions/The Mountain/Kevin MacLeod", size=32, color="#000", font="fonts/HuiWenMinCho.ttf") at truecenter as text_end with Dissolve(2.0)
+    show expression Text(_("音乐  Alex Productions/The Mountain/Kevin MacLeod"), size=32, color="#000", font="fonts/HuiWenMinCho.ttf") at truecenter as text_end with Dissolve(2.0)
     hide expression text_end with Dissolve(2.0)
     show kephale:
         xalign 0.33
@@ -1866,7 +1866,7 @@ label true_end:
         xalign 0.66
         yalign 0.4
     with Dissolve(2.0)
-    show expression Text("Thanks for playing, and wish you a pleasant journey.", size=32, color="#000", font="fonts/HuiWenMinCho.ttf") as text_end:
+    show expression Text(_("Thanks for playing, and wish you a pleasant journey."), size=32, color="#000", font="fonts/HuiWenMinCho.ttf") as text_end:
         xalign 0.5
         yalign 0.75
     with Dissolve(2.0)
@@ -1886,7 +1886,7 @@ label true_end:
     phainon "创造实现理想的世界。"
     pause 2.0
     hide phainon2 with dissolve
-    show text "{color=#000000}Ending C——True End\n新世界{/color}" at truecenter with dissolve
+    show text _("{color=#000000}Ending C——True End\n新世界{/color}") at truecenter with dissolve
     pause 5.0
     hide text with dissolve
     pause 3.0
