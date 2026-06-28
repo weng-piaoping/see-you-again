@@ -363,7 +363,7 @@ screen say(who, what):
         yoffset 40
 
         # 垂直渐变背景（smoothstep版本：底部实心，顶部渐变）
-        add Solid("#000000", xsize=config.screen_width, ysize=350):
+        add Solid("#000000", xsize=config.screen_width, ysize=400):
             at textbox_gradient("#000000E0", 200)
             yalign 1.0
             yanchor 1.0
@@ -387,7 +387,7 @@ screen say(who, what):
 
                     # Namebox with gradient background (left solid, right gradient)
                     fixed:
-                        xsize 300
+                        # xsize 300
                         ysize 40
                         
                         # 左侧实心，右侧渐变背景
@@ -401,7 +401,7 @@ screen say(who, what):
                             xalign 0.0
                             yalign 0.5
                             xoffset 0  # 左侧留白
-                            min_width 300
+                            # min_width 300
 
                     text what id "what" style "say_dialogue"
 
@@ -411,7 +411,7 @@ screen say(who, what):
                 id "window"
                 yalign 1.0
                 yanchor 1.0
-                yoffset -100
+                yoffset -150
                 ysize 180  # 与有namebox时相同高度
                 xsize config.screen_width
                 background None
@@ -425,7 +425,7 @@ screen say(who, what):
                     yalign 0.0  # 从上往下
                     yoffset 70  # 上方留白（namebox高度40 + spacing 10）
                     text_align 0.5  # 居中
-                    xmaximum 1500
+                    xmaximum int(config.screen_width * 0.9)  # 最大宽度为屏幕宽度的90%
                     color "#FFFFFF"
                     outlines []
 
