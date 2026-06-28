@@ -22,3 +22,8 @@ saves/
 
 lib/
 renpy/
+
+# secret
+
+android.keystore
+bundle.keystore
