@@ -1822,7 +1822,7 @@ label true_end:
     hide anaxa with fade
 
     show phainon sad at left with Dissolve(2.0)
-    show expression Text("Original IP  Honkai Stars Rail/ Pairing：Phainaxa", size=32, color="#000", font="fonts/HuiWenMinCho.ttf") as text_end:
+    show expression Text("Original IP  Honkai Star Rail/ Pairing：Phainaxa", size=32, color="#000", font="fonts/HuiWenMinCho.ttf") as text_end:
         xalign 0.7
         yalign 0.5
     with Dissolve(2.0)
@@ -1840,7 +1840,7 @@ label true_end:
     hide anaxa with fade 
 
     show phainon2 normal at left with Dissolve(2.0)
-    show expression Text("Arts/Character Design    游离态深蓝", size=32, color="#000", font="fonts/HuiWenMinCho.ttf") as text_end:
+    show expression Text("Arts/Character Design    Aryyue1", size=32, color="#000", font="fonts/HuiWenMinCho.ttf") as text_end:
         xalign 0.7
         yalign 0.5
     with Dissolve(2.0)
