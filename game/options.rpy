@@ -35,7 +35,7 @@ init python:
     config.screen_height = 1080
     config.window_title = "See You Again"
     config.window_icon = "gui/window_icon.png"
-    config.version = "1.0.1"
+    config.version = "1.0.2"
 
     ## 存档设置
     config.save_directory = "demo-game"
@@ -90,7 +90,7 @@ init python:
     ## The name that's used for directories and archive files. For example, if
     ## this is 'mygame-1.0', the windows distribution will be in the
     ## directory 'mygame-1.0-win', in the 'mygame-1.0-win.zip' file.
-    build.directory_name = "see-you-again-1.0.1"
+    build.directory_name = "see-you-again-1.0.2"
 
     ## The name that's uses for executables - the program that users will run
     ## to start the game. For example, if this is 'mygame', then on Windows,
