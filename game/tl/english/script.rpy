@@ -1791,7 +1791,7 @@ translate english chapter_01_after_810d2c67_2:
 translate english chapter_01_after_ff5b7aad:
 
     # anaxa "听好了，永远不要寄希望于「重来」。"
-    anaxa "Listen up. Never put your hopes on [starting over]."
+    anaxa "Listen up. Never put your hopes on 'starting over.'"
 
 # game/script.rpy:884
 translate english chapter_01_after_1f058f6f:
